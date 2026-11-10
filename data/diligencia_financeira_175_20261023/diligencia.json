@@ -1,0 +1,215 @@
+{
+  "versao": 1,
+  "preparado_em": "2026-10-24T00:14:20.311906+00:00",
+  "linha": 175,
+  "registro_sha256": "ac115e4936c63bb202f5210943d90f179f75c5b09262618becb0539738f1396d",
+  "financeiro_assinatura": "336413f0d9ed2331ffcdd3a7c8330fcb2770df44b9d283accdca22641cb1c68f",
+  "situacao": "nota_citada_documentalmente_original_nao_obtido",
+  "nota": "A referência nos documentos não confirma o destino financeiro rejeitado. Nenhum pagamento foi atribuído.",
+  "contrato": [
+    341,
+    2026
+  ],
+  "processo": [
+    12242,
+    2026
+  ],
+  "cnpj_fornecedor": "27595780000116",
+  "fornecedor": "CS BRASIL FROTAS S.A.",
+  "empenho": [
+    4003,
+    2026
+  ],
+  "referencias": [
+    {
+      "titulo": "Diário Oficial Extraordinário 09 — extrato do contrato, página 5",
+      "contrato": [
+        341,
+        2026
+      ],
+      "processo": [
+        12242,
+        2026
+      ],
+      "empenho_citado": [
+        4003,
+        2026
+      ],
+      "cnpj_localizado_no_escopo": false,
+      "datas_assinatura_publicadas": [
+        "01/09/2026"
+      ],
+      "dotacao": {
+        "programa_trabalho": "68.01.06.181.0018.2076",
+        "elemento_despesa": "3.3.3.9.0.39.00.00.00",
+        "origem_recurso": "1704"
+      },
+      "trecho": "R$ 494.939,88 (QUATROCENTOS E NOVENTA E QUATRO MIL, NOVECENTOS E TRINTA E NOVE REAIS E OITENTA E OITO CENTAVOS). DOTAÇÃO ORÇAMENTÁRIA: PROGRAMA DE TRABALHO: 68.01.06.181.0018.2076; ELEMENTO DE DESPESA: 3.3.3.9.0.39.00.00.00; ORIGEM DO RECURSO: 1704; NOTA DE EMPENHO: 4003/2026. FUNDAMENTO LEGAL: LEI FEDERAL N.º 14.133/2021, PELA LEI COMPLEMENTAR FEDERAL N.º 123/2006 – ESTATUTO NACIONAL DA MICROEMPR",
+      "normalizacao_trecho": "Espaços consolidados e hifenização de quebra de linha removida.",
+      "limite": "Citação documental de empenho; não é a nota original nem comprovação de execução financeira.",
+      "url": "https://www.marica.rj.gov.br/wp-content/uploads/2026/09/DOM_EXTRAORDINARIO_09_10-09-2026_02.pdf",
+      "paginas": [
+        5
+      ],
+      "coluna": 1,
+      "sha256_pdf": "d665e19500902008faf733a383fde25de8e27f89321c6c707b259de8226b08c6",
+      "registro_sha256": "ac115e4936c63bb202f5210943d90f179f75c5b09262618becb0539738f1396d",
+      "escopo_texto_sha256": "c8bc2243c5d6bdce8ca0b78b7487a9e80079ffd90f987ac9c2a34900277ea421",
+      "situacao_fonte": "extrato_publicado"
+    },
+    {
+      "titulo": "PDF do candidato PNCP 413/2026 — identificação e dotação",
+      "contrato": [
+        341,
+        2026
+      ],
+      "processo": [
+        12242,
+        2026
+      ],
+      "empenho_citado": [
+        4003,
+        2026
+      ],
+      "cnpj_localizado_no_escopo": true,
+      "datas_assinatura_publicadas": [],
+      "dotacao": {
+        "programa_trabalho": "68.01.06.181.0018.2076",
+        "elemento_despesa": "3.3.3.9.0.39.00.00.00",
+        "origem_recurso": "1704"
+      },
+      "trecho": "ÁRIA Os recursos necessários à execução dos serviços ora contratados correrão à conta das dotações orçamentárias abaixo classificadas: Programa de Trabalho: 68.01.06.181.0018.2076; Elemento de Despesa: 3.3.3.9.0.39.00.00.00; Origem do Recurso: 1704; Nota de Empenho: 4003/2026. CLÁUSULA VIGÉSIMA – FORO Fica eleito o Foro Central de Maricá para dirimir quaisquer dúvidas oriundas do presente Contrato",
+      "normalizacao_trecho": "Espaços consolidados e hifenização de quebra de linha removida.",
+      "limite": "Citação documental de empenho; não é a nota original nem comprovação de execução financeira.",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/29131075000193/contratos/2026/413/arquivos/1",
+      "paginas": [
+        1,
+        10
+      ],
+      "coluna": null,
+      "sha256_pdf": "4de7bebd8f8447a5d1fa6b5f6721ba5380afc4290b1fd720846add4e681375cd",
+      "registro_sha256": "ac115e4936c63bb202f5210943d90f179f75c5b09262618becb0539738f1396d",
+      "escopo_texto_sha256": "1419245cca853897e5911cf1cd4db446238d11f5df2b7a39604b118240025e78",
+      "situacao_fonte": "candidato_pncp_com_data_divergente",
+      "observacao": "Página 11 apresenta espaços de assinatura sem assinaturas visíveis. Não foi validada assinatura digital."
+    }
+  ],
+  "vinculos_publicados": [
+    {
+      "numero_ano_esperado": [
+        4003,
+        2026
+      ],
+      "numero_ano_observado": [
+        776,
+        2024
+      ],
+      "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/42268/empenho",
+      "situacao": "conflito_identidade",
+      "consultado_em": "2026-10-23T23:55:28.253673+00:00"
+    }
+  ],
+  "solicitacoes": [
+    "Nota de empenho original, incluindo número, exercício, instituição, CNPJ do credor, processo e dotação.",
+    "Processo administrativo e versão assinada do contrato, com esclarecimento da divergência de datas.",
+    "Demonstrativo de liquidações, pagamentos, anulações e estornos com documentos e vínculo ao empenho.",
+    "Notas fiscais, medições, atestos e identificação dos responsáveis pela fiscalização."
+  ],
+  "revisao_humana": {
+    "situacao": "pendente",
+    "responsavel": "",
+    "decisao": null
+  },
+  "assinatura": "036d4817fd345f0bf8dd6c21a9b4f9e27ef4ee24fda9ac34e8fc82770de912d4",
+  "divergencia_data": {
+    "portal": "18/08/2026",
+    "metadado_pncp": "01/09/2026",
+    "extrato_diario": "01/09/2026",
+    "situacao": "nao_resolvida"
+  },
+  "resultados_buscas_alternativas": [
+    {
+      "consulta": "nome_fornecedor",
+      "filtros_conferidos": {
+        "year": "2026",
+        "month": "",
+        "unit": "",
+        "beneficiary": "CS BRASIL",
+        "document": "",
+        "encumbrance_number": ""
+      },
+      "registros": [],
+      "fonte": {
+        "url": "https://transparencia.marica.rj.gov.br/e-cidade/consulta-empenhos/pesquisar",
+        "consultado_em": "2026-10-24T00:10:39.499263+00:00",
+        "filtros": {
+          "year": "2026",
+          "month": "",
+          "unit": "",
+          "beneficiary": "CS BRASIL",
+          "document": "",
+          "encumbrance_number": ""
+        },
+        "sha256": "fa9c776ceb1749063f33022372cfc40983b1ee2e39efb6ad1b22ff365554e31f"
+      }
+    },
+    {
+      "consulta": "numero_com_ano",
+      "filtros_conferidos": {
+        "year": "2026",
+        "month": "",
+        "unit": "",
+        "beneficiary": "",
+        "document": "",
+        "encumbrance_number": "4003/2026"
+      },
+      "registros": [],
+      "fonte": {
+        "url": "https://transparencia.marica.rj.gov.br/e-cidade/consulta-empenhos/pesquisar",
+        "consultado_em": "2026-10-24T00:10:39.881766+00:00",
+        "filtros": {
+          "year": "2026",
+          "month": "",
+          "unit": "",
+          "beneficiary": "",
+          "document": "",
+          "encumbrance_number": "4003/2026"
+        },
+        "sha256": "d56bcfe957faed1f480573ffbc67f5d1bc8a10d1e4b73b5e0d786e435be13f74"
+      }
+    },
+    {
+      "consulta": "unidade_numero",
+      "filtros_conferidos": {
+        "year": "2026",
+        "month": "",
+        "unit": "1102",
+        "beneficiary": "",
+        "document": "",
+        "encumbrance_number": "4003"
+      },
+      "registros": [],
+      "fonte": {
+        "url": "https://transparencia.marica.rj.gov.br/e-cidade/consulta-empenhos/pesquisar",
+        "consultado_em": "2026-10-24T00:10:40.209723+00:00",
+        "filtros": {
+          "year": "2026",
+          "month": "",
+          "unit": "1102",
+          "beneficiary": "",
+          "document": "",
+          "encumbrance_number": "4003"
+        },
+        "sha256": "05b229d14f19283a9969e7e96bf54e4e2c0f0b1e83f2e1c52418785f45b5e27f"
+      }
+    }
+  ],
+  "controle_consulta": {
+    "registros_iniciais": 120,
+    "registros_com_identidade": 108,
+    "cnpj_controle": "34103825000153",
+    "empenho_controle": "5617/2026",
+    "registros_filtrados": 3,
+    "controle_positivo": true
+  }
+}

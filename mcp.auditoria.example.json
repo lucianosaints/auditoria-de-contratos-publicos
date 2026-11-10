@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "auditoria-cidada": {
+      "command": "C:\\Users\\lucia\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": ["D:\\Auditoria_Cidada\\mcp_auditoria.py"]
+    }
+  }
+}

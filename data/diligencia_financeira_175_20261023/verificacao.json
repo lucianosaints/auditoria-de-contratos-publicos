@@ -1,0 +1,31 @@
+{
+  "nove_artefatos_preservados": true,
+  "antes": {
+    "contratos.json": "e721481d7dfa1ec716cae027bc70f7c03eb560a5f19bb1ec817d0a5fc701f689",
+    "parecer.json": "9c541bd8923bc7582777609787df869a52ac012cd71026a002672205557d242c",
+    "documentos.json": "e430a008c89e21bb6cba02100504e81d8b6d94e869fec36c7c23d53d2bd2883c",
+    "pncp.json": "5cf64ba0dbe89409fe17d1e8f48649bad713d4931da31d4d50261fd07649e8cb",
+    "financeiro.json": "a7f756bc727c999a3d9495d03d4c114114b4a1c27b4d9b6f25157143599e3b55",
+    "relatorio.md": "7d901358a704f5590b53d4c3060d4a8524e1a35be49b1df5d2e57e528377d4c1",
+    "revisao_agentes.json": "2a02e5a44b97526d3a0756433e4bb9f877c7d633c0f9d71d0e6e85304480b1ab",
+    "indicadores.json": "fbcf6c3ec4f6422c4cada4bd6e888d57d33138148d5f446dbfd35bac553515cb",
+    "arquivamento.json": "c3a252b0201e8e489b08748071a603d76de2310a6269d09acf6961c169fd856c"
+  },
+  "depois": {
+    "contratos.json": "e721481d7dfa1ec716cae027bc70f7c03eb560a5f19bb1ec817d0a5fc701f689",
+    "parecer.json": "9c541bd8923bc7582777609787df869a52ac012cd71026a002672205557d242c",
+    "documentos.json": "e430a008c89e21bb6cba02100504e81d8b6d94e869fec36c7c23d53d2bd2883c",
+    "pncp.json": "5cf64ba0dbe89409fe17d1e8f48649bad713d4931da31d4d50261fd07649e8cb",
+    "financeiro.json": "a7f756bc727c999a3d9495d03d4c114114b4a1c27b4d9b6f25157143599e3b55",
+    "relatorio.md": "7d901358a704f5590b53d4c3060d4a8524e1a35be49b1df5d2e57e528377d4c1",
+    "revisao_agentes.json": "2a02e5a44b97526d3a0756433e4bb9f877c7d633c0f9d71d0e6e85304480b1ab",
+    "indicadores.json": "fbcf6c3ec4f6422c4cada4bd6e888d57d33138148d5f446dbfd35bac553515cb",
+    "arquivamento.json": "c3a252b0201e8e489b08748071a603d76de2310a6269d09acf6961c169fd856c"
+  },
+  "diligencia_assinatura": "036d4817fd345f0bf8dd6c21a9b4f9e27ef4ee24fda9ac34e8fc82770de912d4",
+  "documentos_citados": 2,
+  "chamadas_ia": 0,
+  "chamadas_banco": 0,
+  "requisicoes_rede_na_preparacao": 0,
+  "solicitacao_enviada": false
+}

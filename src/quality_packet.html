@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Avaliação humana — Auditoria Cidadã</title>
+<style>
+*{box-sizing:border-box}body{font:16px/1.6 system-ui,sans-serif;color:#203d35;background:#f2f6f3;margin:0}main{max-width:1040px;margin:auto;padding:28px 20px}h1{line-height:1.2}header,.case{background:white;border:1px solid #d2ded7;border-radius:12px;padding:22px;margin-bottom:18px}p{overflow-wrap:anywhere}small,.note{color:#526a61}button,select,input,textarea{font:inherit;max-width:100%}button{background:#175b45;color:white;border:0;border-radius:7px;padding:11px 16px;cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid #d2922c;outline-offset:3px}button.secondary{background:#e2ece6;color:#203d35}label{display:block;font-weight:600;margin-top:16px}input,textarea,select{width:100%;padding:10px;border:1px solid #9eb6a7;border-radius:6px;background:white;color:inherit}textarea{min-height:110px}summary{cursor:pointer;font-weight:650;overflow-wrap:anywhere}details p{white-space:pre-wrap}a{color:#11563f;overflow-wrap:anywhere}.toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:16px 0}.status{background:#ecf3ee;padding:12px;border-radius:7px}.source{border-left:3px solid #9bb8a5;padding-left:14px;margin:12px 0}.error{color:#a33220}fieldset{border:0;padding:0;margin:0}.hidden{display:none}@media(max-width:600px){main{padding:16px 12px}header,.case{padding:16px}h1{font-size:27px}}
+</style>
+<main><header><small>AUDITORIA CIDADÃ · CONFERÊNCIA HUMANA</small><h1>Há fundamento para pedir uma diligência?</h1>
+<p>Confira cada registro e suas fontes. Falta de documentos pode impedir uma decisão: mantenha o caso pendente. A avaliação trata da necessidade de diligência e não declara fraude ou ilegalidade.</p>
+<p class="note" id="snapshot"></p><p>A triagem original fica fechada para você formar uma primeira impressão a partir das fontes. Ela não é comprovação.</p>
+<div class="toolbar"><button id="export">Exportar referência preenchida</button><button id="pending" class="secondary">Mostrar só pendentes</button></div>
+<p id="progress" class="status" role="status"></p><p id="message" role="alert"></p>
+<p class="note">As decisões são suas. Este caderno não envia dados pela internet. O rascunho fica neste navegador quando disponível; exporte o JSON para guardar o trabalho. Os PDFs locais dependem da pasta original do projeto.</p>
+</header><div id="cases"></div></main>
+<script type="application/json" id="packet">__PACKET__</script>
+<script>
+'use strict';
+const packet=JSON.parse(document.getElementById('packet').textContent);
+const copy=v=>JSON.parse(JSON.stringify(v));
+let reference=copy(packet.referencia),onlyPending=false;
+const key='auditoria-avaliacao-'+reference.coleta_sha256+'-'+reference.parecer_sha256+'-'+reference.itens.map(i=>i.linha).join('-');
+const message=document.getElementById('message');
+try{const saved=JSON.parse(localStorage.getItem(key)||'null');if(saved&&saved.itens?.length===reference.itens.length&&saved.itens.every((i,n)=>i.linha===reference.itens[n].linha&&i.registro_sha256===reference.itens[n].registro_sha256)&&saved.itens.every(i=>[null,true,false].includes(i.exige_diligencia)&&typeof i.responsavel==='string'&&typeof i.justificativa==='string'&&Array.isArray(i.fontes)&&i.fontes.every(f=>typeof f==='string'))&&saved.coleta_sha256===reference.coleta_sha256&&saved.parecer_sha256===reference.parecer_sha256)reference.itens.forEach((item,n)=>{for(const field of ['exige_diligencia','responsavel','justificativa','fontes'])item[field]=saved.itens[n][field];});}catch{}
+function node(tag,text,parent){const e=document.createElement(tag);if(text!=null)e.textContent=text;if(parent)parent.append(e);return e;}
+function persist(){try{localStorage.setItem(key,JSON.stringify(reference));}catch{message.textContent='Rascunho sem armazenamento neste navegador. Exporte o JSON para preservar suas respostas.';}update();}
+function update(){const evaluated=reference.itens.filter(i=>i.exige_diligencia!==null).length;document.getElementById('progress').textContent=`${evaluated} decisões registradas · ${reference.itens.length-evaluated} pendentes. A precisão ainda depende da análise das decisões e das fontes.`;for(const e of document.querySelectorAll('.case')){const item=reference.itens.find(i=>i.linha===Number(e.dataset.line));e.classList.toggle('hidden',onlyPending&&item.exige_diligencia!==null);}}
+document.getElementById('snapshot').textContent=`Execução ${packet.execucao}. Caderno preparado em ${new Date(packet.preparado_em).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'})}. Retrato das fontes nesta data; alterações posteriores exigem nova conferência.`;
+for(const c of packet.casos){
+ const item=reference.itens.find(i=>i.linha===c.linha), card=node('details',null,document.getElementById('cases'));card.className='case';card.dataset.line=c.linha;
+ node('summary',`Linha ${c.linha} · ${c.numero||'Número não informado'} · ${c.fornecedor||'Fornecedor não informado'}`,card);
+ node('p',`Processo: ${c.processo||'não informado'} · Valor publicado: ${c.valor||'não informado'}`,card);node('p',c.objeto||'Objeto não informado',card);
+ if(c.url_contrato){const a=node('a','Conferir contrato na fonte oficial',card);a.href=c.url_contrato;a.target='_blank';a.rel='noreferrer';}
+ node('p',c.nota_documental,card);
+ for(const d of c.documentos){const box=node('div',null,card);box.className='source';node('p',`${d.rotulo} · ${d.tipo||'tipo não validado'} · ${d.status||'não processado'} · ${d.paginas??'não informado'} páginas`,box);if(d.nota_tipo)node('p',d.nota_tipo,box);if(d.local||d.url){const a=node('a',d.local?'Abrir PDF local com hash conferido':'Abrir fonte publicada',box);a.href=d.local||d.url;a.target='_blank';a.rel='noreferrer';}if(d.sha256)node('small',`SHA-256: ${d.sha256}`,box);}
+ const original=node('details',null,card);node('summary','Ver triagem original',original);for(const reason of c.motivos_originais)node('p',reason,original);if(!c.motivos_originais.length)node('p','Sem alerta no parecer original. Isso não confirma regularidade.',original);
+ const decisionLabel=node('label','Sua avaliação',card),select=node('select',null,decisionLabel);select.setAttribute('aria-label',`Decisão da linha ${c.linha}`);
+ for(const [value,text] of [['','Pendente / dados insuficientes'],['true','Há fundamento documental para diligência'],['false','Não há fundamento para diligência após conferência']]){const o=node('option',text,select);o.value=value;}
+ select.value=item.exige_diligencia===null?'':String(item.exige_diligencia);select.onchange=()=>{item.exige_diligencia=select.value===''?null:select.value==='true';persist();};
+ for(const [field,label,multiline] of [['responsavel','Responsável pela avaliação',false],['justificativa','Justificativa e limites',true],['fontes','Fontes conferidas — uma por linha, incluindo página quando aplicável',true]]){const labelEl=node('label',label,card),input=node(multiline?'textarea':'input',null,labelEl);input.setAttribute('aria-label',`${label} da linha ${c.linha}`);input.value=field==='fontes'?item.fontes.join('\n'):item[field];input.oninput=()=>{item[field]=field==='fontes'?input.value.split('\n').map(x=>x.trim()).filter(Boolean):input.value;persist();};}
+}
+document.getElementById('pending').onclick=()=>{onlyPending=!onlyPending;document.getElementById('pending').textContent=onlyPending?'Mostrar todos':'Mostrar só pendentes';update();};
+document.getElementById('export').onclick=()=>{const bad=reference.itens.find(i=>i.exige_diligencia!==null&&(!i.responsavel.trim()||!i.justificativa.trim()||!i.fontes.length));if(bad){message.textContent=`Linha ${bad.linha}: decisão exige responsável, justificativa e fontes conferidas.`;message.className='error';const card=document.querySelector(`[data-line="${bad.linha}"]`);card.open=true;card.classList.remove('hidden');card.scrollIntoView();return;}message.className='';message.textContent='Referência exportada. Casos pendentes continuam sem decisão; guarde o arquivo baixado.';const url=URL.createObjectURL(new Blob([JSON.stringify(reference,null,2)],{type:'application/json;charset=utf-8'}));const a=node('a');a.href=url;a.download='avaliacao_humana_preenchida.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};
+update();
+</script></html>

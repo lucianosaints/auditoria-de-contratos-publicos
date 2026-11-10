@@ -1,0 +1,2 @@
+# RAG local SQLite FTS5 e transporte MCP; sem embeddings pagos.
+-r requirements.txt

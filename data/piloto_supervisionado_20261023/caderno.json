@@ -1,0 +1,2251 @@
+{
+  "versao": 1,
+  "preparado_em": "2026-10-24T00:29:09.511803+00:00",
+  "execucao": "20261020T015002Z_72b23869",
+  "referencia": {
+    "versao": 1,
+    "coleta_sha256": "26555b78341bb4cf318f9f6e1bb361d44f0f3e243474e15595d2bc517fd4b52b",
+    "parecer_sha256": "a96e7164bcdfab0b64b005fcf6bddecec5e621b855c1c7e1653cfab3101ece7f",
+    "metodo": "aleatoria_estratificada_por_alerta",
+    "semente": 42,
+    "nota": "Avaliar necessidade de diligência com evidências; não classificar fraude. Amostra estratificada: métricas descrevem a amostra, sem extrapolação populacional.",
+    "itens": [
+      {
+        "linha": 4,
+        "registro_sha256": "471f160b96864f966e8f14e5003aabdae9a774bc25663e5dc7591e92ee3043aa",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 40,
+        "registro_sha256": "8d851ba96e186a23a2d50ac9b22960c0e1e7e063b8620c3bc8996c99a5401690",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 41,
+        "registro_sha256": "719e24898fe8ff9d9417615f72631e685ba47ce09eebd03fca245bab9eb831e4",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 56,
+        "registro_sha256": "c253a0583712f861ec80b8356d3c96b7db8492c60be0df3403fb6746a3107437",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 59,
+        "registro_sha256": "91fb1bfe779f5a864cf6c8d59a2079259d047b2191f58d060b71f373de545140",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 63,
+        "registro_sha256": "0e1a89b618f8967f365c8e0fac306ecfe63927f9d72edf00074d76270537b681",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 84,
+        "registro_sha256": "d07fe97d29364449424e4ae1c5461beadb7609737ff13aac61c4535bd8eff60d",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 91,
+        "registro_sha256": "c846e5c40dd816b7a9f263a48ef1b6f912a2c57ca808d3020a5fa476a9e534c7",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 94,
+        "registro_sha256": "0b403ed1b3383adb3b83f732b584c9292476a8377b2ee5916b1c4f2c2c84e92b",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 96,
+        "registro_sha256": "f9540c775838391ce14dc51ffb25c2e685244f093d1b3b542c2199dd302c24b4",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 97,
+        "registro_sha256": "f931effb31f63979dc3b966faeabcbf8456cc2e385ee47d6669ac37900be899a",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 114,
+        "registro_sha256": "976f20bda020e81585988be00fdd436ee6b937d9da2b7b16fd591512ed945617",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 135,
+        "registro_sha256": "7ffa85a6aadadd91e6928b583aa2390fa5c3b9a6030f3317a8ae2f2895e6330e",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 138,
+        "registro_sha256": "6bc7ec2a7805ebe59cc94579c78d1ad1c08e07da451aee3a9def28fc074fe372",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 139,
+        "registro_sha256": "596c9f03864b0b8b73c33821f8376c136b05c33cf436b1bc350eed423f523336",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 156,
+        "registro_sha256": "5ac0493cf9ee7019b21ace16a615d684c225edd0ad7986f559a10a8a70bde57d",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 157,
+        "registro_sha256": "7a7be4e6b9bf5069b1293c4fd29716a1f3336dbe9ec72043d2a6a59340c6389f",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 158,
+        "registro_sha256": "863a6822f35dbea0c15ef23e0ec4e35dae6272cd85f9d921dd1c952d34ef15d7",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 174,
+        "registro_sha256": "84e4f4ac44ae37c449f0fce5eea592dbeb57db7014e3e55ed56db2477a977b04",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 175,
+        "registro_sha256": "ac115e4936c63bb202f5210943d90f179f75c5b09262618becb0539738f1396d",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 194,
+        "registro_sha256": "685ecca2b895c07a20c410811aca4fac303d9b6e3f6e16272f08097e0bcf58a7",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 211,
+        "registro_sha256": "7f5ad4d022cd0018afb6f68cb595f04aacf5f17d56a2a53ff622fb33f2608b78",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 214,
+        "registro_sha256": "3dc5e794b54ceb17cb576e23f2a57b7f2d3112bc1a2eafdc6c6eb504e5f07eb0",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 216,
+        "registro_sha256": "61530a5eddd78bcc9480651615d799b443188c77cfa1517c598a30a7237af04d",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 224,
+        "registro_sha256": "c9df136f2a894bac007c06944f742524a3ea69f142556af908b6075589830d3e",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 236,
+        "registro_sha256": "f946039af9773338635250aad9e41197ba9805918239b9e139a87bac04374ec5",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 261,
+        "registro_sha256": "4ea75f170d2a4597c442a4db844c342fd296473aef5b95c54f6c3073cac976d6",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 263,
+        "registro_sha256": "a88a30e56afdacfc4a449e4786df332858c445cf03a59978e1b47006c7c91f1e",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 275,
+        "registro_sha256": "e1b9531d2093edd46b7ece86b83a7af924635fcfdb0adfc46d5c75248c22a8e7",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 288,
+        "registro_sha256": "82f0480ab0211f5d1b934245400bc582f67012a0a0b2ca494224f055550de3e1",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 317,
+        "registro_sha256": "6592a3ec21367983da31dfb1f5ce87a820e87d3450eada59ae9c082f3b1310ca",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 340,
+        "registro_sha256": "1ca1cc38bdeeeb15bc99552a051b48d86362501d977ebb119e7d26be77d8cfcd",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 347,
+        "registro_sha256": "4449ce62dbd982e1148eecb46975c0e9c9e6b8bc53635e2129c9e496130a5a6f",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 352,
+        "registro_sha256": "3d6a344ff2b39fc8fc9d0a3f9a6929460417153d2595e99f7a2ff50f72de8a11",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 376,
+        "registro_sha256": "a0880e46b918798b69b7bab9e33d6bd0bf1ef31edc693d595f179287a8708d93",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 378,
+        "registro_sha256": "127480f4f6d9e4b9bb3c9af41f22e24a8f163cf5f4a7bdbce111850e1e5e8432",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 384,
+        "registro_sha256": "7cd61691aacb71839c28b8c4a2c38e87276139f7da426fbc8b5b619e3b91979a",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 397,
+        "registro_sha256": "251e3147d8cfb55ec49af54a393db30dd9d3b6d89b41e65f60de83bf51e69c44",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 417,
+        "registro_sha256": "e3230634bd85a9618b7a8877d3ec7d57d212790075da9b4f23a017745ee5c554",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      },
+      {
+        "linha": 420,
+        "registro_sha256": "efc2c0861d8bc58d1d08d768f117ca95c3e07d02202172433ab0f3c34bde7329",
+        "exige_diligencia": null,
+        "responsavel": "",
+        "justificativa": "",
+        "fontes": []
+      }
+    ],
+    "piloto": {
+      "versao": 1,
+      "id": "79897242b75d65f6b548d0083d8d2fc3fc9d9d2ab1daea87431ec43b8f63af02",
+      "fontes_sha256": {
+        "contratos.json": "e721481d7dfa1ec716cae027bc70f7c03eb560a5f19bb1ec817d0a5fc701f689",
+        "parecer.json": "9c541bd8923bc7582777609787df869a52ac012cd71026a002672205557d242c",
+        "documentos.json": "e430a008c89e21bb6cba02100504e81d8b6d94e869fec36c7c23d53d2bd2883c",
+        "referencia_base": "f727cc3fa0efd1ba67afaaa96cad3e562f32f7305461dcf594dc57fa8cd7111c"
+      },
+      "avaliador": {
+        "nome": "",
+        "funcao": ""
+      },
+      "itens": [
+        {
+          "linha": 4,
+          "registro_sha256": "471f160b96864f966e8f14e5003aabdae9a774bc25663e5dc7591e92ee3043aa",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 40,
+          "registro_sha256": "8d851ba96e186a23a2d50ac9b22960c0e1e7e063b8620c3bc8996c99a5401690",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 41,
+          "registro_sha256": "719e24898fe8ff9d9417615f72631e685ba47ce09eebd03fca245bab9eb831e4",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 56,
+          "registro_sha256": "c253a0583712f861ec80b8356d3c96b7db8492c60be0df3403fb6746a3107437",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 59,
+          "registro_sha256": "91fb1bfe779f5a864cf6c8d59a2079259d047b2191f58d060b71f373de545140",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 63,
+          "registro_sha256": "0e1a89b618f8967f365c8e0fac306ecfe63927f9d72edf00074d76270537b681",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 84,
+          "registro_sha256": "d07fe97d29364449424e4ae1c5461beadb7609737ff13aac61c4535bd8eff60d",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 91,
+          "registro_sha256": "c846e5c40dd816b7a9f263a48ef1b6f912a2c57ca808d3020a5fa476a9e534c7",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 94,
+          "registro_sha256": "0b403ed1b3383adb3b83f732b584c9292476a8377b2ee5916b1c4f2c2c84e92b",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 96,
+          "registro_sha256": "f9540c775838391ce14dc51ffb25c2e685244f093d1b3b542c2199dd302c24b4",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 97,
+          "registro_sha256": "f931effb31f63979dc3b966faeabcbf8456cc2e385ee47d6669ac37900be899a",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 114,
+          "registro_sha256": "976f20bda020e81585988be00fdd436ee6b937d9da2b7b16fd591512ed945617",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 135,
+          "registro_sha256": "7ffa85a6aadadd91e6928b583aa2390fa5c3b9a6030f3317a8ae2f2895e6330e",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 138,
+          "registro_sha256": "6bc7ec2a7805ebe59cc94579c78d1ad1c08e07da451aee3a9def28fc074fe372",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 139,
+          "registro_sha256": "596c9f03864b0b8b73c33821f8376c136b05c33cf436b1bc350eed423f523336",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 156,
+          "registro_sha256": "5ac0493cf9ee7019b21ace16a615d684c225edd0ad7986f559a10a8a70bde57d",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 157,
+          "registro_sha256": "7a7be4e6b9bf5069b1293c4fd29716a1f3336dbe9ec72043d2a6a59340c6389f",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 158,
+          "registro_sha256": "863a6822f35dbea0c15ef23e0ec4e35dae6272cd85f9d921dd1c952d34ef15d7",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 174,
+          "registro_sha256": "84e4f4ac44ae37c449f0fce5eea592dbeb57db7014e3e55ed56db2477a977b04",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 175,
+          "registro_sha256": "ac115e4936c63bb202f5210943d90f179f75c5b09262618becb0539738f1396d",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 194,
+          "registro_sha256": "685ecca2b895c07a20c410811aca4fac303d9b6e3f6e16272f08097e0bcf58a7",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 211,
+          "registro_sha256": "7f5ad4d022cd0018afb6f68cb595f04aacf5f17d56a2a53ff622fb33f2608b78",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 214,
+          "registro_sha256": "3dc5e794b54ceb17cb576e23f2a57b7f2d3112bc1a2eafdc6c6eb504e5f07eb0",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 216,
+          "registro_sha256": "61530a5eddd78bcc9480651615d799b443188c77cfa1517c598a30a7237af04d",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 224,
+          "registro_sha256": "c9df136f2a894bac007c06944f742524a3ea69f142556af908b6075589830d3e",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 236,
+          "registro_sha256": "f946039af9773338635250aad9e41197ba9805918239b9e139a87bac04374ec5",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 261,
+          "registro_sha256": "4ea75f170d2a4597c442a4db844c342fd296473aef5b95c54f6c3073cac976d6",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 263,
+          "registro_sha256": "a88a30e56afdacfc4a449e4786df332858c445cf03a59978e1b47006c7c91f1e",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 275,
+          "registro_sha256": "e1b9531d2093edd46b7ece86b83a7af924635fcfdb0adfc46d5c75248c22a8e7",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 288,
+          "registro_sha256": "82f0480ab0211f5d1b934245400bc582f67012a0a0b2ca494224f055550de3e1",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 317,
+          "registro_sha256": "6592a3ec21367983da31dfb1f5ce87a820e87d3450eada59ae9c082f3b1310ca",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 340,
+          "registro_sha256": "1ca1cc38bdeeeb15bc99552a051b48d86362501d977ebb119e7d26be77d8cfcd",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 347,
+          "registro_sha256": "4449ce62dbd982e1148eecb46975c0e9c9e6b8bc53635e2129c9e496130a5a6f",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 352,
+          "registro_sha256": "3d6a344ff2b39fc8fc9d0a3f9a6929460417153d2595e99f7a2ff50f72de8a11",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 376,
+          "registro_sha256": "a0880e46b918798b69b7bab9e33d6bd0bf1ef31edc693d595f179287a8708d93",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 378,
+          "registro_sha256": "127480f4f6d9e4b9bb3c9af41f22e24a8f163cf5f4a7bdbce111850e1e5e8432",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 384,
+          "registro_sha256": "7cd61691aacb71839c28b8c4a2c38e87276139f7da426fbc8b5b619e3b91979a",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 397,
+          "registro_sha256": "251e3147d8cfb55ec49af54a393db30dd9d3b6d89b41e65f60de83bf51e69c44",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 417,
+          "registro_sha256": "e3230634bd85a9618b7a8877d3ec7d57d212790075da9b4f23a017745ee5c554",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        },
+        {
+          "linha": 420,
+          "registro_sha256": "efc2c0861d8bc58d1d08d768f117ca95c3e07d02202172433ab0f3c34bde7329",
+          "rascunho": {
+            "exige_diligencia": null,
+            "responsavel": "",
+            "justificativa": "",
+            "fontes": []
+          },
+          "exposicao_previa": false,
+          "manual_segundos": null,
+          "sistema_segundos": null,
+          "encerrado_em": null,
+          "avaliacao_independente": null,
+          "triagem_aberta_em": null,
+          "reavaliacao_assistida": {
+            "exige_diligencia": null,
+            "justificativa": ""
+          }
+        }
+      ]
+    }
+  },
+  "casos": [
+    {
+      "linha": 4,
+      "numero": "417 - 2026",
+      "processo": "13039/2026",
+      "fornecedor": "RCS SOLUCOES EMPRESARIAIS II LTDA",
+      "objeto": "OBJETO O OBJETO DO PRESENTE CONTRATO É A CONTRATAÇÃO DA EMPRESA PARA AQUISIÇÃO DE MATERIAIS DE CONSUMO, EM LOTE ÚNICO (GRUPO 01), DESTINADOS AO ATENDIMENTO DAS NECESSIDADES ADMINSITRATIVO E OPERACIONAIS DA SECRETARIA DE ASSISTÊNCIA SOLCIAL E CIDADANIA (SMASC), DEVIDAMENTE DESCRITOS, CARACTERIZADOS E ESPECIFICADOS NO TERMO DE REFERÊNCIA ÁS FLS. 10/31, BEM COMO NA MEMÓRIA DE CÁLCULO DE FLS. 33/34.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 13039/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 62.273,65",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15709/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 40,
+      "numero": "402 - 2026",
+      "processo": "19531/2024",
+      "fornecedor": "KARLA EDUARDA DE SOUZA ARAUJO",
+      "objeto": "1.1 O OBJETO DESTE INSTRUMENTO É A CONCESSÃO DE DIREITO REAL DE USO, A TÍTULO GRATUITO, DE UMA ÁREA MEDINDO 71,65 M² (SETENTA E UM VÍRGULA SESSENTA E CINCO METROS QUADRADOS), SITUADA NAS DEPENDÊNCIAS DO CONDOMÍNIO RESIDENCIAL \\TOURO MAR, IMÓVEL DE PROPRIEDADE MUNICIPAL, LOCALIZADO À AVENIDA DOIS, LOTE 1, QUADRA 27, UNIDADE 101, LOTEAMENTO JARDIM OURO MAR, SÃO JOSÉ DO IMBASSAÍ - MARICÁ - RJ CUJA MATRÍCULA NO RGI É N.º 106.660.\\N\\N1.2 A CONCESSÃO DE DIREITO REAL DE USO DESTINA-SE À MORADIA DA MUNÍCIPE KARLA EDUARDA DE SOUZA ARAÚJO, PARA FINS DE INTERESSE SOCIAL, NO ÂMBITO DE PROGRAMA HABITACIONAL, NOS TERMOS DO PROCESSO ADMINISTRATIVO ESPECÍFICO.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15682/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor Zero em Objeto Oneroso. Evidência literal com nome do campo: 'Detalhe - Valor Global' e 'Detalhe - Objeto'. Fato observado: Valor global registrado como R$ 0,00 para um termo de concessão de direito real de uso de área de 71,65 m². Hipótese e limite: O valor zero está explicitamente justificado no objeto/instrumento como concessão a título gratuito para fins de interesse social (programa habitacional), tratando-se de fato regular pela natureza do ajuste e não de irregularidade. Documentos necessários: Processo administrativo específico (19531/2024). Próxima diligência: Juntar cópia do ato de concessão e comprovar o enquadramento no programa habitacional."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "dac3e74a1bf97bb724cab3ee0388dfffd60c3ee1b06363a0938e26dcf9b46730",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/9131bd283bef79eaba79f5f69ffbc23b7ccc8532d1c09107eb074e8bc6524637.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15682/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "f7c18e634fd0167b17500eaf23a347a14edbf842c0bfb85c0d2edf5707f00c5d",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/2c8f8d67686f32dd37681ace1a8bfd3b8448043d83f719db43473b1c7f53c83e.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483376/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 41,
+      "numero": "401 - 2026",
+      "processo": "19537/2024",
+      "fornecedor": "GIVANY RAMOS QUEIROZ",
+      "objeto": "1.1 O OBJETO DESTE INSTRUMENTO É A CONCESSÃO DE DIREITO REAL DE USO, A TÍTULO GRATUITO, DE UMA ÁREA MEDINDO 71,65 M² (SETENTA E UM VÍRGULA SESSENTA E CINCO METROS QUADRADOS), SITUADA NAS DEPENDÊNCIAS DO CONDOMÍNIO RESIDENCIAL \\TOURO MAR, IMÓVEL DE PROPRIEDADE MUNICIPAL, LOCALIZADO À AVENIDA DOIS, LOTE 1, QUADRA 27, UNIDADE 202, LOTEAMENTO JARDIM OURO MAR, SÃO JOSÉ DO IMBASSAÍ - MARICÁ - RJ CUJA MATRÍCULA NO RGI É N.º 106.663.\\N\\N1.2 A CONCESSÃO DE DIREITO REAL DE USO DESTINA-SE À MORADIA DA MUNÍCIPE GIVANY RAMOS QUEIROZ, PARA FINS DE INTERESSE SOCIAL, NO ÂMBITO DE PROGRAMA HABITACIONAL, NOS TERMOS DO PROCESSO ADMINISTRATIVO ESPECÍFICO.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15680/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor Zero em Objeto Oneroso. Evidência literal com nome do campo: 'Detalhe - Valor Global' e 'Detalhe - Objeto'. Fato observado: Valor global registrado como R$ 0,00 para termo de concessão de direito real de uso de área de 71,65 m². Hipótese e limite: Justificado expressamente como concessão gratuita para fins de interesse social, caracterizando hipótese regular de uso de bem público sem ônus para o beneficiário. Documentos necessários: Processo administrativo específico (19537/2024). Próxima diligência: Arquivar documentação comprobatória do programa habitacional de interesse social."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "47aea3bcecc4631c6bc853d979db0bcd1c37894659e9a46ad2e13a00d514d047",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/dd27c4935bbe3a4d3c6a6b8bc0c2877fbca48dfcc1aa62c4df273500b4a5ff3d.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15680/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "1ec1fe3d67a6ad6d34d60d124e9de2003566e83eb523c972d431223657f1fcaa",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/95deec78f748c47acfd7cf22511dc4fd10fe8849547b3ffe2f374fc9e1621013.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483375/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 56,
+      "numero": "410 - 2026",
+      "processo": "5683/2026",
+      "fornecedor": "DUCS COMERCIO, SERVICOS E IMPORT LTDA",
+      "objeto": "O PRESENTE CONTRATO TEM POR OBJETO A AQUISIÇÃO DE KIT ENXOVAL DE BEBÊ, POR MEIO DE ADESÃO À ATA DE REGISTRO DE PREÇOS Nº 02/FMAS/2025, SOB DEMANDA, COMPREENDENDO A AQUISIÇÃO, MONTAGEM, ACONDICIONAMENTO E ENTRGEA DOS KITS, CONFORME ESPECIFICAÇÕES, QUANTIDADES E CONDIÇÕES ESTABELECIDAS NO TERMO DE REFERÊNCIA ÀS FLS. 435/515, DO PROCESSO ADMINISTRATIVO SOB Nº 5683/2026, NO EDITAL DE LICITAÇÃO, NA MODALIDADE PREGÃO ELETRÔNICO, Nº 90004/2025 DO PROCESSO ADMINISTRATIVO Nº 2024/081495, NA ATA DE REGISTRO DE PREÇOS Nº 02/FMAS/2025 E NOS ANEXOS DESTE CONTRATO.\\NPARÁGRAFO PRIMEIRO. O OBJETO DA CONTRATAÇÃO É DESCRITO A SEGUIR: \\N\\NITEM\\TESPECIFICAÇÃO\\TUNIDADE DE MEDIDA\\TQUANTIDADE\\TVALOR UNITÁRIO\\TVALOR TOTAL\\N1\\TKIT MAMÃE PRESENTE CONTENDO: KIT DE FRALDA DE TECIDO COM 5 UNIDADES; BODY PARA BEBÊ MANGA LONGA; FRALDA DESCARTÁVEL RN COM 24 UNIDADES; ABSORVENTE PÓS PARTO; TOALHA DE BANHO LISA COM CAPUZ; SABONETE EM BARRA 90G; SHAMPOO RECÉM-NASCIDO 200ML; LENÇOS UMEDECIDOS - (PODE COM 70 FOLHAS); SABONETEIRA COM TAMPA; KIT ESCOVA E PENTE PARA BEBÊS; BOLSA MATERNIDADE PLÁSTICA INFANTIL PERSONALIZADA; TERMÔMETRO DIGITAL; POMADA PARA ASSADURA; TALCO PARA BEBÊ; HASTES FLEXÍVEIS; MANTA E KIT TOUCA E LUVA BEBÊ.\\TUNND\\T900\\TR$ 560,00\\TR$ 504.000,00\\NITEM\\TESPECIFICAÇÃO\\TUNIDADE DE MEDIDA\\TQUANTIDADE\\TVALOR UNITÁRIO\\TVALOR TOTAL\\N1\\TKIT DE FRALDA DE TECIDO COM 5 UNIDADES; FRALDA E TRICOLINE MEDIDAS APROXIMADAS DE FRALDA: ALTURA 70CM, LARGURA: 70CM. \\TPCT\\T1.800\\TR$ 11,00\\TR$ 19.800,00\\N2\\TBODY PARA BEBÊ MANGA COM ABERTURA DE BOTÕES DE PRESSÃO ENTRE AS PERNAS. COMPOSIÇÃO: 97% ALGODÃO, 03% ELASTANO. TAMANHO O. COR: BRANCA.\\TUND\\T4.500\\TR$ 12,00\\TR$ 54.000,00\\N3\\TFRALDA DESCARTÁVEL RN COM 24 UNIDADES, MATERIAL DE EXTRATO DE ALGODÃO, GEL ULTRA ABSORVENTE, COM BARREIRAS LATERAL ANTIVAZAMENTO, PRÁTICA, ANATÔMICA E CONFORTÁVEL COM POLPA DE CELULOSE, GEL POLÍMERO, FIBRAS DE POLIPROPILENO E ADESIVO TERMOPLÁSTICO, EMBALADA EM PACOTE PLÁSTICO PRODUZIDA EM FILME TIPO GOFRADO COM MÍNIMO 24 UNIDADES, COM QUALIDADE DE PROTEÇÃO MÍNIMA DE 12 HORAS, COM CORTE UMBILICAL. NA EMBALAGEM DEVERÃO ESTAR IMPRESSOS TODOS OS DADOS DO FABRICANTE, LOTE E VALIDADE.\\TPCT\\T2.700\\TR$ 15,99\\TR$ 43.173\\N4\\TABSORVENTE PÓS PARTO - HIPOALERGÊNICO; USO DIÁRIO: DIURNO E NOTURNO; POLPA DE CELULOSE; GEL SUPER ABSORVENTE; FILME DE POLIETILENO; NÃO TECIDO; PACOTE 20 UNIDADES.\\TPCT\\T1.800\\TR$ 13,00\\TR$ 23.400,00\\N5\\TTOALHA DE BANHO LISA COM CAPUZ, MEDIDA APROXIMADA DE 70X90CM. COMPOSIÇÃO: 100% ALGODÃO. COR: BRANCA.\\TUND\\T4.500\\TR$ 19,99\\TR$ 89.955,00\\N6\\TKIT DE 3 PARES DE MEIAS PARA RECÉM-NASCIDO, 50% ALGODÃO - 9% POLIÉSTER - 1% ELASTANO - 38% POLIAMIDA - 2% ELASTODIENO. TAMANHO: P. COR: BRANCA.\\TUND\\T4.500\\TR$ 10,50\\TR$ 47.250,00\\N7\\TSABONETE EM BARRA 90G. FRAGRÂNCIA PARA BEBÊ.\\TUND\\T1.800\\TR$ 4,00\\TR$ 7.200,00\\N8\\TSHAMPOO RECÉM-NASCIDO 200MIL, COM PERFUME DERMATOLOGICAMENTE TESTADO.\\TUND\\T1.800\\TR$ 9,99\\TR$ 17.982,00\\N9\\TCONDICIONADOR RECÉM-NASCIDO 200MIL, COM PERFUME DERMATOLOGICAMENTE TESTADO.\\TUND\\T1.800\\TR$ 9,85\\TR$ 17.730,00\\N10\\TCOLÔNIA RECÉM-NASCIDO 200MIL, PARA CRIANÇAS, DERMATOLOGICAMENTE TESTADO, TIPO: COLÔNIA, MODELO: LAVANDA.\\TUND\\T900\\TR$ 12,50\\TR$ 11.250,00\\N11\\TLENÇOS UMEDECIDOS - (POTE COM 70 FOLHAS) DIMENSÕES APROXIMADAS DE 19,5CMX 11,5CM, SEM ÁLCOOL ETÍLICO.\\TPOTE\\T1.800\\TR$ 7,90\\TR$ 14.220,00\\N12\\TSABONETEIRA COM TAMPA, ATÓXICA, 100% POLIETILENO, COR BRANCA.\\TUND\\T900\\TR$ 3,15\\TR$ 2.835,00\\N13 \\TKIT ESCOVA E PENTE PARA BEBÊS.\\TUND\\T900\\TR$ 11,50\\TR$ 10.350,00\\N14\\TBOLSA MATERNIDADE PERSONALIZADA (CONFORME LAYOUT ANEXO) PARA BEBÊ, CONFECCIONADA COM TECIDO POÁ TODA FORRADA COM CETIM, COM, APROXIMADAMENTE, 3 COMPARTIMENTOS, SENDO O PRINCIPAL E 1 FRONTAL COM FECHAMENTO EM ZÍPER Nº 06. POSSUI ALÇA DE MÃO NA MEDIDA APROXIMADA DE 38CM 9CADRAÇO 3MM) E ALÇA TIRACOLO MEDIDA APROXIMADA DE 140CM (CADARÇO 3MM). DIMENSÕES APROXIMADAS DO ´PRODUTO? ALTURA: 28VM APROX. LARGURA: 39CM APROX. PROFUNDIDADE: 19CM. APROX. PESO APROXIMADO: 0,640G.\\TUND\\T900\\TR$ 39,00\\TR$ 35.100,00\\N15\\TBANHEIRA PLÁSTICA  INFANTIL PERSONALIZADA 9CONFORME LAYOUT ANEXO) - ANATÔMICA FABRICADA EM MATERIAL DE POLIETILENO ATÓXICO, COM CANTOS ARREDONDADOS, LOCAL APROPRIADO PARA COLOCAR SABONETE E ESPONJA, CAPACIDADE MÍNIMA 25 LITROS. MEDIDAS APROXIMADAMENTE: 80CMM DE COMPRIMENTO X 56CM DE LARGURA, NO MÍNIMO. \\TUND\\T900\\TR$ 9,99\\TR$ 26.991,00\\N16\\TTERMÔMETRO DIGITAL, Á PROVA D?ÁGUA, REGISTRO INMETRO E ANVISA.\\TUND\\T900\\TR$ 9,00\\TR$ 8.100,00\\N17\\TPOMADA PARA ASSADURA, DERMATOLOGICAMENTE TESTADO EM TUBOS COM NO MÍNIMO 60G\\TUND\\T1.800\\TR$ 9,45\\TR$ 17.010,00\\N18\\TTALCO PARA BEBÊ, DERMATOLOGICAMENTE TESTADO EM EMBALAGEM/POTE COM NO MÍNIMO 200G.\\TUND\\T1.800\\TR$ 12,50\\TR$ 22.500,00\\N19\\THASTES FLEXÍVEIS COM PONTAS DE ALGODÃO(COTONETES); PONTAS 100% ALGODÃO; CAIXA COM 75 UNIDADES.\\TUND\\T900\\TR$ 1,90\\TR$ 1.710,00\\N20\\TMANTA DUPLA 100% ALGODÃO MEDIDAS APROXIMADAS 90X90CM.\\TUND\\T900\\TR$ 19,16\\TR$ 17.244,00\\N21\\TKIT TOUCA E LUVA BEBÊ, CONTENDO 1 TOUCA E 1 PAR DE LUVAS; 100% ALGODÃO.\\TPCT\\T1.800\\TR$ 9,00\\TR$ 16.200,00\\NR$ 504.000,00",
+      "valor": "R$ 504.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15693/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 59,
+      "numero": "242 - 2026",
+      "processo": "707/2026",
+      "fornecedor": "ECO 805 COMERCIO E SERVIÇOS DE EQUIPAMEN",
+      "objeto": "CONTRATO Nº 009/2026, REFERENTE A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO, COM MONTAGEM, DE MOBILIÁRIOS CORPORATIVOS NOVOS PARA ATENDER ÀS NECESSIDADES DA EPT.",
+      "valor": "R$ 30.023,33",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15716/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 63,
+      "numero": "399 - 2026",
+      "processo": "10718/2026",
+      "fornecedor": "ANDRIELLY ALVES DE AZEVEDO ANTUNES CENT",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A CONTRATAÇÃO DA EMPRESA ANDRIELLYVALVES DE AZEVEDO ANTUNES CENTRO EDUCACIONAL LTDA, APARA PRESTAÇÃO DE SERVIÇO EDUCACIONAL , NA EDUCAÇÃO INFANTIL- ETAPA CRECHE, A CRIANÇAS DE ATÉ 03 (TRÊS) ANOS E 11(ONZE) MESES DE IDADE BENEFICIÁRIAS DO PROGRAMA DE CONCESSÃO DE BOLSAS DE ESTUDO DEVIDAMENTE DESCRITOS, CARACTERIZADOS E ESPECIFICADOS NO TERMO DE REFERÊNCIA ÁS FLS. 292/315, BEM COMO NA MEMÓRIA DE CÁLCULO DE FLS. 140.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 10718/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 405.542,93",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15665/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 84,
+      "numero": "53 - 2026",
+      "processo": "13991/2026",
+      "fornecedor": "PREFEITURA MUNICIPAL DE MARICA",
+      "objeto": "O PRESENTE ACORDO DE COOPERAÇÃO TÉCNICA TEM POR OBJETO ESTABELECER AS CONDIÇÕES PARA A ATUAÇÃO INTEGRADA ENTRE A SECRETARIA MUNICIPAL DE EDUCAÇÃO - SME E A SECRETARIA MUNICIPAL DE GRANDES OBRAS - SMGO, VISANDO À COOPERAÇÃO INSTITUCIONAL, TÉCNICA, ADMINISTRATIVA E OPERACIONAL NO PLANEJAMENTO, PRIORIZAÇÃO, DESENVOLVIMENTO, CONTRATAÇÃO, GERENCIAMENTO, EXECUÇÃO, FISCALIZAÇÃO, MONITORAMENTO E ACOMPANHAMENTO DE ESTUDOS, PROJETOS, OBRAS E INTERVENÇÕES DESTINADAS À IMPLANTAÇÃO, AMPLIAÇÃO, REFORMA, REQUALIFICAÇÃO, MODERNIZAÇÃO E ADEQUAÇÃO DA INFRAESTRUTURA FÍSICA DA REDE MUNICIPAL DE EDUCAÇÃO",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15626/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor explicitamente zero em objeto oneroso, sem justificativa disponível. Fato observado: O Detalhe - Valor Global e o Valor do Contrato constam como R$ 0,00 para um Acordo de Cooperação Técnica (Termo de Adesão 53/2026, Processo 13991/2026) entre a Secretaria Municipal de Educação e a Secretaria Municipal de Grandes Obras. Hipótese e limite: Trata-se de instrumento de cooperação institucional sem envolvimento de repasse financeiro direto, configurando acordo de mútua cooperação, mas a ausência de detalhamento financeiro no resumo impede confirmar a onerosidade sem acesso ao teor integral do ajuste. Documentos necessários: Cópia integral do Acordo de Cooperação Técnica nº 53/2026 e respectivo Plano de Trabalho. Próxima diligência: Requisitar o termo do convênio e plano de trabalho para verificar a natureza jurídica do ajuste e ausência de obrigações financeiras."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "de1223ae6bf6637c5dd04f8ee91fb92b75b45ef10d72e96bcd78ac8a064c2afe",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/418389bcf7b214ffc7a46c1fd76936d207f81dbf297162a8df8e76f15a602bf8.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15626/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "5f6033c0cf18d3f9868b34e9a6decfe27d6a3bc61cd5b2ff594f70015d002325",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/bdd47b772ee10479e40701609b7ede9c418df7b3a0243b90a3a7043691c86d24.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483279/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 91,
+      "numero": "77 - 2026",
+      "processo": "13656/2026",
+      "fornecedor": "MSI COMERCIO E SERVICOS LTDA",
+      "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE, CONFORME PROCESSO ADMINISTRATIVO N.º 13656/2026, E ESPECIALMENTE O DISPOSTO NA ATA DE REGISTRO DE PREÇOS Nº 39/2026 (REFERENTE AO PROCESSO ADMINISTRATIVO Nº 23523/2025, ATRAVÉS DO PREGÃO ELETRÔNICO - SOMAR N.º 90011/2026)",
+      "valor": "R$ 6.240,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15615/visualizar",
+      "motivos_originais": [
+        "Categoria: Ata de registro de preços. Fato observado: O Contrato nº 77/2026 (Processo 13656/2026) registra no objeto e nos empenhos a utilização da Ata de Registro de Preços nº 39/2026 (Pregão Eletrônico - SOMAR nº 90011/2026, Processo nº 23523/2025) para aquisição de material de expediente, no valor global de R$ 6.240,00. Hipótese e limite: O uso de ata própria do município (SOMAR) indica contratação derivada de registro de preços interno, cuja legalidade pressupõe a vigência e saldo da ata, sem evidências de irregularidade nos dados disponíveis. Documentos necessários: Ata de Registro de Preços nº 39/2026 e respectiva proposta vencedora. Próxima diligência: Juntar aos autos do processo o extrato da ata e comprovação de saldo disponível para o atendimento do quantitativo contratado."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "ba25675d8d83c9e830ff910168bcce59b36180cf924b69235ab244430626dd50",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/bebfa40c18d153e729f7745b23310f3e0a6d885b319dcdc6c44b3e9eb031f070.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15615/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "4145f9633ed923380f2f5ba17c298260af08c918af16bb2bf4ec30df8d43abce",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/460bc36008e4c117a2c7669ddbc259c96212fc3f12c1b6f57ff7c40d74f9fa51.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483260/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 94,
+      "numero": "91 - 2026",
+      "processo": "3223/2026",
+      "fornecedor": "ADAO JOSE PRAVADELLI (ESPOLIO)",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A LOCAÇÃO DE IMÓVEL SITUADO NA RUA JAYME DE CARLOS SOUZA, GALPÕES N.º 105, 106, 107, 108 E 109, BAIRRO MANOEL RIBEIRO, MARICÁ/RJ, PARA INSTALAÇÃO DO ALMOXARIFADO FARMACÊUTICO, ARQUIVO, FROTA, ALMOXARIFADO GERAL E SETOR DE PATRIMÔNIO DA SECRETARIA MUNICIPAL DE SAÚDE, CONFORME DESCRITO E CARACTERIZADO NO TERMO DE REFERÊNCIA.",
+      "valor": "R$ 1.337.189,16",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15552/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 96,
+      "numero": "376 - 2026",
+      "processo": "17900/2025",
+      "fornecedor": "CONSTRUTORA ESQUADRO LTDA",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO, POR EMPREITADA TOTAL DE EMPRESA ESPECIALIZADA PARA OFERECER O CONJUNTO DE ESPECIFICAÇÕES CAPAZES DE PROPICIAR A AQUISIÇÃO E INSTALAÇÃO DE UNIDADES MODULARES PADRONIZADAS, VISANDO ATENDER ÀS DEMANDAS ESTRUTURAIS DO MUNICÍPIO, PARA A CONSTRUÇÃO DO NOVO CPT EDUARDO GERMÁN MARIA HUGHES GALEANO, LOCALIZADO NO DISTRITO DE INOÃ - MARICÁ",
+      "valor": "R$ 72.091.213,20",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15586/visualizar",
+      "motivos_originais": [
+        "Categoria: Adesão a Ata de Registro de Preços e Escolas Modulares. Evidência literal: Campo 'Detalhe - Empenhos' menciona 'ADESÃO A ATA DE REGISTRO DE PREÇOS Nº 003/2025 DO CONSÓRCIO INTERMUNICIPAL... AQUISIÇÃO E INSTALAÇÃO DE UNIDADES MODULARES PADRONIZADAS' com 'Detalhe - Valor Global' de R$ 72.091.213,20. Fato observado: Contrato de alto valor para unidades modulares e construção escolar agregando fornecimento, instalação e obras, sem o detalhamento de custos unitários na tabela coletada. Hipótese e limite: A agregação de atividades e o alto valor representam risco de escopo vago ou sobrepreço potencial, mas a ausência de planilha analítica na tabela constitui lacuna informacional, não comprovando irregularidade por si só. Documentos necessários: Edital da licitação originária, ata de registro de preços original, estudo técnico preliminar comparando a solução modular com construção convencional, e planilha orçamentária detalhada com custos unitários, área em m² e capacidade. Próxima diligência: Requisitar ao órgão a documentação completa do processo administrativo nº 17900/2025."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "d620651f9900bdf1a0cd0cc95928d1eb674fba48b7b5f72c81b0bbb930b30f7d",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/7c07667c5d3939aa47ab0e0033a347c765c5e21a1e4502fd4fe8d145b11e8817.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15586/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "2d7b257b6a46f4c38ad0c988913baff16673a2e8c8944a5d1d861b8b974b8367",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/6a7bf8f18ec33309484939feb4cf75702ea92f2babc2fc67e533293bc3ced2c6.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483230/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 97,
+      "numero": "369 - 2026",
+      "processo": "10354/2026",
+      "fornecedor": "GPLJ SERVICOS DE BUFFET LTDA",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO TRATA-SE DA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE COFFEE BREAK, DESTINADO AO ATENDIMENTO MENSAL DOS SERVIDORES DA SECRETARIA DE GOVERNANÇA EM LICITAÇÕES E CONTRATOS, DEVIDAMENTE DESCRITOS, CARACTERIZADOS E ESPECIFICADOS NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 10354/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 17.600,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15553/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 114,
+      "numero": "49 - 2026",
+      "processo": "11341/2026",
+      "fornecedor": "FEDERACAO DE CAPOEIRA CULTURAL E DESPORT",
+      "objeto": "O PRESENTE TERMO TEM POR OBJETO A REALIZAÇÃO DO PROJETO TROFÉU CAPOEIRA DO ESTADO DO RIO DE JANEIRO - CIDADE DE MARICÁ - EDIÇÃO 2026, BEM COMO A PROMOÇÃO DE TODAS AS ATIVIDADES CONSTANTES NO PLANO DE TRABALHO E DA PLANILHA DE CUSTOS.",
+      "valor": "R$ 1.395.560,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15528/visualizar",
+      "motivos_originais": [
+        "Categoria: Divergência de valores e aditamentos. Evidência literal com nome do campo: \"Detalhe - Valor Inicial\" registra \"R$ 697.780,00\" e \"Detalhe - Valor Global\" registra \"R$ 697780.00\", enquanto \"Detalhe - Aditamentos\" aponta \"Número Valor Detalhar 26/2026 R$ 697.780,00\". Fato observado: Inclusão de termo aditivo com impacto financeiro equivalente ao valor inicial, elevando o compromisso. Hipótese e limite: Hipótese de aditamento de acréscimo ou prorrogação com novo aporte; limite pela falta de detalhamento do teor do aditamento nos dados consultados. Documentos necessários: Cópia integral do Termo Aditivo nº 26/2026 e respectivo termo de referência ou plano de trabalho aditado. Próxima diligência: Solicitar o processo administrativo do convênio para verificar a fundamentação legal e técnica do aditamento."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "9e3b17889807d100d4150d3f08a2dc73ae5166120864493579ed1877834fc540",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/91011ac452e64b8823a61987553f37c7230ed5c6be92b70fd104694233957a08.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15528/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "58130afbd775fb26789b8a5180c0b46e8876a9c0487b4758cb5611a3079e9a49",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/7b5f497878683544c7f28835430dc66cb81c0838dc49f96208bc4056a383ad78.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483186/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "441d5d56083ce201c8ec07e8a6eefe07ca70b591c2e32cb5a9fbdad63a5a0c23",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/2e0d0a534261157ba49c9fbe34afd3ee5eeaecf33876b8d14700230146842f9e.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483396/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 135,
+      "numero": "355 - 2026",
+      "processo": "14127/2026",
+      "fornecedor": "JAIR PRODUCOES EVENTOS E TURISMO LTDA",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A PRESTAÇÃO DE SERVIÇOS DE SHOW ARTÍSTICO DO  CANTOR JAIRO BONFIM, PARA INTEGRAR A PROGRAMAÇÃO DO EVENTO MARCHA PARA JESUS, PROMOVIDO PELA SECRETARIA DE ASSUNTOS RELIGIOSOS, CIDADANIA E FAMÍLIA, A SER REALIZADO NO DIA 29 DE AGOSTO DE 2026, DEVIDAMENTE DESCRITO, CARACTERIZADO E ESPECIFICADO NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO PRIMEIRO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 14127/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 45.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15540/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 138,
+      "numero": "358 - 2026",
+      "processo": "14128/2026",
+      "fornecedor": "CRIATIVE MUSIC LTDA",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A PRESTAÇÃO DE SERVIÇOS DE SHOW ARTÍSTICO DA DUPLA ANDRÉ E FELIPE, PARA INTEGRAR A PROGRAMAÇÃO DO EVENTO MARCHA PARA JESUS, PROMOVIDO PELA SECRETARIA DE ASSUNTOS RELIGIOSOS, CIDADANIA E FAMÍLIA, A SER REALIZADO NO DIA 29 DE AGOSTO DE 2026, DEVIDAMENTE DESCRITO, CARACTERIZADO E ESPECIFICADO NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO PRIMEIRO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 14128/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 140.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15541/visualizar",
+      "motivos_originais": [
+        "Categoria: Lacuna informacional / Evidência literal: 'Detalhe - Itens': 'Nenhum item encontrado', 'Detalhe - Documentos': 'Descrição Ações contrato 358/2026' / Fato observado: Contrato de show artístico de valor elevado (R$ 140.000,00) sem o detalhamento de itens na tabela / Hipótese e limite: Ausência de discriminação de custos na publicação consultada, limite informacional que impede a validação direta de preços sem acesso ao processo / Documentos necessários: Termo de referência, proposta comercial e comprovação de exclusividade de representação / Próxima diligência: Requisitar o processo administrativo para análise da documentação de exclusividade e justificativa de preço."
+      ],
+      "documentos": [
+        {
+          "rotulo": "3582026ASSUNTOSRELIGIOSOS.pdf",
+          "tipo": "pdf_publicado",
+          "nota_tipo": "PDF publicado: conferir identidade e tipo documental no original.",
+          "status": "lido",
+          "paginas": 9,
+          "sha256": "5d8da03ada36375ad0321574b1d458d784975ff0b71bd48fe0dc420521761af9",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/d924d60f516426bf4dc7f7868e3477db5afbf762f5a89e8d33bd79ab7e6cfad7.pdf",
+          "url": "https://pncp.gov.br/pncp-api/v1/orgaos/29131075000193/contratos/2026/404/arquivos/1"
+        },
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "000f307e2870507e0c6b93a68043aba477650e785548f4fe2b7f14dd68186523",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/29f7a2e8153e36282358327150f5351165479f4f318956c971b62965c050fd4f.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15541/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "147ce3533681216230a597eb4884dc9289d2bc8641f66d5f4c8a151aefd259f6",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/1b8ae28d7a0e86d824b480f5e70d9016b66af52a25c5505551885f25e2a8e615.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483193/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 139,
+      "numero": "363 - 2026",
+      "processo": "13998/2026",
+      "fornecedor": "JAIR PRODUCOES EVENTOS E TURISMO LTDA",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A PRESTAÇÃO DE SERVIÇOS DE SHOW ARTÍSTICO DO DJ NALDAO, PARA INTEGRAR A PROGRAMAÇÃO DO EVENTO MARCHA PARA JESUS, PROMOVIDO PELA SECRETARIA DE ASSUNTOS RELIGIOSOS, CIDADANIA E FAMÍLIA, A SER REALIZADO NO DIA 29 DE AGOSTO DE 2026",
+      "valor": "R$ 25.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15558/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 156,
+      "numero": "348 - 2026",
+      "processo": "13980/2026",
+      "fornecedor": "INSTITUTO ITER S.A",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO TRATA-SE DA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CAPACITAÇÃO DE AGENTES PÚBLICOS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, POR MEIO DE INSCRIÇÕES EM CURSO DE PÓS-GRADUAÇÃO LATO SENSU, EM NÍVEL DE MBA, DEVIDAMENTE DESCRITOS, CARACTERIZADOS E ESPECIFICADOS NO TERMO DE REFERÊNCIA",
+      "valor": "R$ 314.820,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15488/visualizar",
+      "motivos_originais": [
+        "Categoria: Lacuna informacional e ata de registro de preços. Evidencia literal com nome do campo: 'Detalhe - Instrumento' indicando 'TERMO DE ADESÃO'. Fato observado: Contrato decorrente de adesão sem cópia da ata original ou comprovação de vantajosidade na base coletada. Hipotese e limite: Hipotese de utilização de ata de registro de preços, cujo limite é a impossibilidade de verificar a regularidade da origem sem os documentos gerenciais. Documentos necessários: Edital da licitação originária, ata de registro de preços, autorizações e estudo de vantajosidade. Próxima diligência: Requisitar o processo de adesão à ata, incluindo a ata original e a respectiva pesquisa de preços."
+      ],
+      "documentos": [
+        {
+          "rotulo": "3482026GOVERNANA.pdf",
+          "tipo": "pdf_publicado",
+          "nota_tipo": "PDF publicado: conferir identidade e tipo documental no original.",
+          "status": "lido",
+          "paginas": 13,
+          "sha256": "a6eabf2e5d3cacb4e413900653974ab639dbe94220af63c817585fcced647ee4",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/5c1f02a9a6d3da5fc339958cb54d0a1d7e0815991a13f9e514268914690389b8.pdf",
+          "url": "https://pncp.gov.br/pncp-api/v1/orgaos/29131075000193/contratos/2026/385/arquivos/1"
+        },
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "e71eb3da1314860728c93747e7d28d25fc03830188c365a02fb46df05f2dafe1",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/c819a2c74ca8b01a61ad7915342d488c1b9e9d553dc66a090c8628e81fd64708.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15488/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "cd568e3c911d827f4fc555e5281da5ebaebc1b864644d192850c94efc96e5214",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/64f24d779627910af6f52632380958520c9fd5df9262ddc81db2b4b29bfd9ee8.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483158/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 157,
+      "numero": "45 - 2026",
+      "processo": "10375/2026",
+      "fornecedor": "SUPERCOMM S.A.",
+      "objeto": "1.1. O PRESENTE TERMO TEM POR OBJETO ESTABELECER A COOPERAÇÃO TÉCNICA ENTRE AS PARTES PARA A REALIZAÇÃO DE PROVA DE CONCEITO (POC) DO PROJETO MARICÁ SAFE CITY, CONSISTENTE NA DISPONIBILIZAÇÃO TEMPORÁRIA DE INFRAESTRUTURA DE SERVIDORES, CÂMERAS DE VIDEOMONITORAMENTO E SERVIÇOS EM NUVEM, COM A FINALIDADE DE VALIDAR A VIABILIDADE TÉCNICA DA SOLUÇÃO ANTES DO LANÇAMENTO DE PROCESSO LICITATÓRIO.\\N\\N1.2. A POC SERÁ EXECUTADA EM CONFORMIDADE COM A MATRIZ RACI CONSTANTE DO ANEXO I, QUE INTEGRA ESTE TERMO PARA TODOS OS FINS.\\N\\N1.3. AS PARTES AJUSTAM QUE AS PREMISSAS BÁSICAS PARA EXECUÇÃO DO PRESENTE INSTRUMENTO ESTÃO DEFINIDAS NO ANEXO II, QUE INTEGRA ESTE TERMO PARA TODOS OS FINS.\\N\\N1.4. A SUPERCOMM, POR MEIO DESTE INSTRUMENTO, COMPROMETE-SE A FORNECER SERVIDORES DE PROCESSAMENTO, ARMAZENAMENTO LOCAL OU EM NUVEM, SWITCHES, LICENÇAS DE SOFTWARE E PLATAFORMA DE GESTÃO INTEGRADA, (CONFORME A DEFINIR EM ADITIVO OU ANEXO ESPECÍFICO).\\N\\N1.5. O ESCOPO TÉCNICO, OS LOCAIS DE INSTALAÇÃO, AS ESPECIFICAÇÕES DOS EQUIPAMENTOS E OS INDICADORES DE DESEMPENHO ESTÃO DETALHADOS NO ANEXO IV - PLANO DE EXECUÇÃO DA POC.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15461/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor explicitamente zero em objeto oneroso sem justificativa disponivel. Evidencia literal com nome do campo: 'Detalhe - Valor Global' e 'Detalhe - Valor Inicial' exibindo 'R$ 0,00'. Fato observado: O instrumento registrado como termo de parceria possui valor explicitamente zero. Hipotese e limite: Hipotese de acordo de cooperação técnica sem repasse financeiro, cujo limite é a impossibilidade de confirmar a gratuidade sem o exame do termo integral e anexos. Documentos necessários: Termo de parceria assinado, anexos e plano de execução da POC. Próxima diligência: Requisitar o processo administrativo completo e o plano de execução da POC."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "059fd2d24864e915b64a7d6cef4f22b434bbe4dce697bae2902931bb45eeb5bf",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/02714664d6781a35973c255017c9fa1ea73a3bac5871ee77258cf0a045ac7be6.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15461/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "8ef7ce95b0db16f2a0a7b3101b814f5ee32c6e9305571e82c91468a00d0a1bfe",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/3c6e1b3fffab43f0e9ba5edb6ca1662671aaf49169d79330a91d8b14f22b25f8.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483148/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "0cb12c6db69d188033865b3d96d76be59bbcdbb8ea04a43cc234b8402c68cc22",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/e8db1d0e9680cde3d84b265f8024f32db2a7cfe3505c7c7b805671efc5b15b45.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483149/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 158,
+      "numero": "345 - 2026",
+      "processo": "8823/2026",
+      "fornecedor": "AMTM LOG COMERCIO E SERVICOS LTDA",
+      "objeto": "O PRESENTE CONTRATO TEM POR OBJETO A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE ROUPAS, ACESSÓRIOS DE VESTUÁRIOS E ESTAMPARIA EM GERAL PARA ATENDER AS NECESSIDADES DESTA SECRETARIA, DEVIDAMENTE DESCRITOS, CARACTERIZADOS E ESPECIFICADOS NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS CONTIDAS NO PROCESSO ADMINISTRATIVO N.º 8823/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS FORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 51.160,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15458/visualizar",
+      "motivos_originais": [
+        "Categoria: Lacuna informacional e ata de registro de preços. Evidencia literal com nome do campo: 'Detalhe - Instrumento' indicando 'TERMO DE ADESÃO'. Fato observado: Contrato decorrente de adesão sem o documento da ata original na coleta. Hipotese e limite: Hipotese de contratação via ata, cujo limite é a restrição dos dados informados no portal. Documentos necessários: Edital originário e ata de registro de preços. Próxima diligência: Solicitar a ata de registro de preços e o termo de referência correspondente."
+      ],
+      "documentos": [
+        {
+          "rotulo": "3452026PESCA.pdf",
+          "tipo": "pdf_publicado",
+          "nota_tipo": "PDF publicado: conferir identidade e tipo documental no original.",
+          "status": "lido",
+          "paginas": 11,
+          "sha256": "f02009b469ddea5604da7dfcbbaaa3affa3c9a8539bbe32ae52331320ae29dd6",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/fe70bb29b2d8f104068dc2888ade8a93b31de52504203e8a1f4d6892a682c59e.pdf",
+          "url": "https://pncp.gov.br/pncp-api/v1/orgaos/29131075000193/contratos/2026/389/arquivos/1"
+        },
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "dd6a5bf96a2fd58fdbd563ccf5cbb413b31350acf37f3cb14e4ba9ceedc0b066",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/73a4d70d7f94eb8ffd48f439aed45a301a82de61f4b791768a69073c2d85d68d.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15458/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "dde85ffeb407266350149d8d5396afa24e99784d26e566f56cfbf819858cc3c0",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/42252f1254e2ffa727ab849b9ded17125a0ede1bfc088d19b9ac4cb47c90791d.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483170/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 174,
+      "numero": "70 - 2026",
+      "processo": "4611/2025",
+      "fornecedor": "ORTO FORTINO COMERCIO E FABRICACAO DE OR",
+      "objeto": "O PRESENTE CONTRATO TEM POR OBJETO A CONTRATAÇÃO EMERGENCIAL DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE ROUPA THERATOGS PEDIÁTRICA, SANDÁLIA MEMO SHOES NÚMERO 29, ANDADOR PACER GAIT TRAINER RIFTON TAMANHO M E ÓRTESE MEMBRO INFERIOR, EM VIRTUDE DO OFÍCIO N.º V116/2025 DP MÚCLEO DE PRIMEIRO ATENDIMENTO DE MARICÁ, NO TERMO DE REFERÊNCIA, NA FORMA ABAIXO DESCRITA.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 4611/2025, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 69.370,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15451/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 175,
+      "numero": "341 - 2026",
+      "processo": "12242/2026",
+      "fornecedor": "CS BRASIL FROTAS S.A.",
+      "objeto": "O PRESENTE CONTRATO TEM POR OBJETO A OBJETO DO PRESENTE INSTRUMENTO É A PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE VEÍCULOS CARACTERIZADOS (OPERACIONAIS) E DESCARACTERIZADOS (ADMINISTRATIVOS) ZERO QUILÔMETROS, COM MANUTENÇÃO EM CARÁTER PREVENTIVO E CORRETIVO, COM SEGURO TOTAL OU AUTOSEGURO, SEM MOTORISTA E SEM COMBUSTÍVEL, CONFORME AS ESPECIFICAÇÕES CONTIDAS NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 12242/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 494.939,88",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15452/visualizar",
+      "motivos_originais": [
+        "Categoria: Ata de Registro de Preços e Instrumento; Evidência literal com nome do campo: 'Detalhe - Instrumento': 'TERMO DE ADESÃO' e 'Detalhe - Empenhos': 'USO DA ATA DE REGISTRO DE PREÇOS N° 08/2026'; Fato observado: Contrato decorrente de adesão a ata de registro de preços para locação de veículos sem motorista e sem combustível, sem cópia do edital ou da ata original na coleta; Hipótese e limite: A adesão pode possuir respaldo legal, mas sem os documentos de origem não é possível verificar a vantajosidade ou os limites quantitativos; Documentos necessários: Edital da licitação, ata de registro de preços original, ofício de autorização do órgão gerenciador e justificativa de vantajosidade; Próxima diligência: Solicitar ao setor responsável a juntada integral do processo licitatório de origem da ata."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "3c10dd342ebd4c8840917d816b5a3b831a378739dbec891696c99ad46a4f0e09",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/dfd4cc7d4ad9a771e801b45268cf631bced807081b2191ba6263eb4c5b979509.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15452/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "e529492ba0157831dd5ef939bdd2f66eb9a381e109d0a37f448cea522998d58b",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/d585ebde2f55ff8812fcc5bce82b7bfe54bc89c3f570607af4c99db7c22628a5.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483218/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 194,
+      "numero": "241 - 2026",
+      "processo": "0002709/2026",
+      "fornecedor": "MARCELO VITOR RIBEIRO",
+      "objeto": "CONTRATO Nº 04/2026, LOCAÇÃO DE IMÓVEIS, REGISTRO DE IMÓVEIS COMPETENTE SOB AS MATRÍCULAS Nº 125.754 (LOJA 101), Nº 125.755 (LOJA 102), Nº 125.756 (APARTAMENTO 201), Nº 125.757 (APARTAMENTO 202), Nº 125.758 (APARTAMENTO 203), Nº 125.759 (APARTAMENTO 301), Nº 125.760 (APARTAMENTO 302), Nº 125.761 (APARTAMENTO 303), COM AS SEGUINTES CARACTERÍSTICAS: PRÉDIO COM 3 PAVIMENTOS, COMPOSTO POR 2 LOJAS FRONTAIS, 6 APARTAMENTOS DISTRIBUÍDOS EM 2 ANDARES, ELEVADOR, ESTACIONAMENTO PRIVATIVO PARA ATÉ 15 VEÍCULOS, ÁREA CONSTRUÍDA DE 620,28M² E ÁREA TOTAL DE TERRENO COM 483,68 M².",
+      "valor": "R$ 852.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15705/visualizar",
+      "motivos_originais": [
+        "Categoria: Adesão à Ata de Registro de Preços. Evidência literal com nome do campo: Campo \"Detalhe - Empenhos\" e \"Objeto\" citam \"ADESÃO À ATA DE REGISTRO DE PREÇOS 38/2025 DA PREFEITURA MUNICIPAL DE PARAÍBA DO SUL/RJ - OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONFECÇÃO DE MATERIAL GRÁFICO... (Contrato 339/2026, Processo 24081/2025)\". Fato observado: Contrato formalizado por meio de adesão à ata de outro órgão, com valor global inicial de R$ 1.323.553,20 e aditamento posterior registrado. Hipótese e limite: A mera utilização de ata de registro de preços externa não constitui irregularidade por si só, sendo necessária a verificação dos requisitos legais de adesão (\"carona\"). Documentos necessários: Edital da licitação originária, Ata de Registro de Preços original, autorização do órgão gerenciador, comprovação de vantajosidade e estudo técnico preliminar. Próxima diligência: Solicitar os autos do processo n.º 24081/2025 para análise da legalidade da adesão."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "e572e52d378ca83f6dc67cecaa5696868a2f38051f729f5d137ba8d079313a3b",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/aeb78f872b4417449e820e8bd540add6f83d197f368aae595d9c8f38c499953e.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15705/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "9130fad2a7e69f4b5d80d013b7881c920ce30d66bb503de6bd4c4e8bcb67fdc8",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/d3181b5f132e8c78c4d9ebc010cfad749aa04279a8b88e4599a8818ab3ba3551.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483364/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 211,
+      "numero": "334 - 2026",
+      "processo": "11715/2026",
+      "fornecedor": "SUMMER PRODUCOES LTDA",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A PRESTAÇÃO DE SERVIÇOS DE SHOW ARTÍSTICO COM O CANTOR GUILHERME DE SÁ PARA APRESENTAÇÃO NO EVENTO DE NOSSA SENHORA DO AMPARO 2026, A SER REALIZADO NO DIA 15 DE AGOSTO DE 2026, DEVIDAMENTE DESCRITO, CARACTERIZADO E ESPECIFICADO NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO PRIMEIRO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 11715/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 150.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15325/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 214,
+      "numero": "32 - 2026",
+      "processo": "11137/2023",
+      "fornecedor": "BANNER ENGENHARIA E CONS LTDA",
+      "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSULTORIA E ASSESSORAMENTO ESPECIALIZADA EM PLANEJAMENTO E EXECUÇÃO DE AÇÕES DE PREVENÇÃO À INCÊNDIO E PÂNICO PARA ATENDIMENTO DAS NECESSIDADES DO AEROPORTO MUNICIPAL DE MARICÁ - SBMI.",
+      "valor": "R$ 408.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15354/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 216,
+      "numero": "49 - 2026",
+      "processo": "5709/2026",
+      "fornecedor": "DROGARIA LIDER DE MARICA LTDA",
+      "objeto": "O OBJETO DO PRESENTE É A CONTRATAÇÃO EMERGENCIAL DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE 06 (SEIS) LATAS DO INSUMO FÓRMULA INFANTIL PREGOMIN PEPTI (LATAS DE 400G), EM VIRTUDE DA TUTELA PROVISÓRIA DE URGÊNCIA ANTECIPADA DEFERIDA NO PROCESSO JUDICIAL N.º 0802807-41.2026.8.19.0002, DEVIDAMENTE DESCRITO, CARACTERIZADO E ESPECIFICADO NA DECISÃO DE FLS. 04/05, BEM COMO NA MANIFESTAÇÃO DE FLS. 93/96.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 5709/2026, NA DECISÃO DE FLS. 04/05, BEM COMO NA MANIFESTAÇÃO DE FLS. 93/96, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 15.119,28",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15040/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 224,
+      "numero": "74 - 2026",
+      "processo": "1907/2026",
+      "fornecedor": "LUIZ HENRIQUE DE FIGUEIREDO MARINS",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A LOCAÇÃO DO IMÓVEL SITUADO NA RUA ROBERTO SILVEIRA, Nº 46, SALAS 102 E 301 A 310, EDIFÍCIO COSTA AZUL, CENTRO, MARICÁ/RJ, CONFORME DESCRITO E CARACTERIZADO NO TERMO DE REFERÊNCIA.",
+      "valor": "R$ 344.623,44",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15380/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 236,
+      "numero": "003 - 2026",
+      "processo": "1414/2020",
+      "fornecedor": "EDITORA E DISTRIBUIDORA EDUCACIONAL S/A",
+      "objeto": "O PRESENTE CONVÊNIO TEM POR OBJETO A CONCESSÃO DE ESTÁGIO DE COMPLEMENTAÇÃO EDUCACIONAL PELA CONCEDENTE DE ESTÁGIO AOS ESTUDANTES MATRICULADOS NOS CURSOS DE ENFERMAGEM, FISIOTERAPIA, NUTRIÇÃO, EDUCAÇÃO FÍSICA, BIOMEDICINA, TERAPIA OCUPACIONAL, FONOAUDIOLOGIA E FARMÁCIA OFERTADOS PELA CONVENENTE, ENTENDIDO O ESTÁGIO COMO UMA ATIVIDADE DE PRÁTICA PROFISSIONAL QUE INTEGRA O PROCESSO DE ENSINO-APRENDIZAGEM, CONFIGURANDO UMA METODOLOGIA QUE CONTEXTUALIZA E PÕE EM AÇÃO O APRENDIZADO.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15336/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 261,
+      "numero": "56 - 2026",
+      "processo": "11624/2026",
+      "fornecedor": "S ANDRADE VIEIRA PRODUCOES E EVENTOS",
+      "objeto": "APRESENTAÇÃO ARTÍSTICA DA BANDA TATUDOEMCASA, NO EVENTO \"FESTA DO PRODUTOR RURAL\" , A SER REALIZADO NO DIA 25 DE JULHO DE 2026, ÀS 14H, NA R. LUIZ FERNANDO DOS SANTOS CAETANO, S/N - CAJU - MARICÁ - RJ, 24903-154.",
+      "valor": "R$ 7.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15446/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 263,
+      "numero": "53 - 2026",
+      "processo": "11618/2026",
+      "fornecedor": "RAQUEL FONSECA SANTOS 68554443500",
+      "objeto": "REALIZAR APRESENTAÇÃO ARTÍSTICA DE RAQUEL FONSECA, NO EVENTO ?FESTA DO PRODUTOR RURAL\", A SER REALIZADO NO DIA 24 DE JULHO DE 2026, ÀS 19H, NA R. LUIZ FERNANDO DOS SANTOS CAETANO, S/N - CAJU - MARICÁ - RJ, 24903-150.",
+      "valor": "R$ 5.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15436/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 275,
+      "numero": "316 - 2026",
+      "processo": "10347/2026",
+      "fornecedor": "64.130.836 VICTOR HUGO FRAGA PEREIRA",
+      "objeto": "O OBJETO DO PRESENTE CONTRATO É A PRESTAÇÃO DO SERVIÇO DE SHOW ARTÍSTICO COM A BANDA NOSTÁLGICA, PARA INTEGRAR A PROGRAMAÇÃO DO EVENTO MARICÁ MOTO FEST, A SER REALIZADO NO DIA 24 DE JULHO DE 2026, DEVIDAMENTE DESCRITO, CARACTERIZADO E ESPECIFICADO NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO PRIMEIRO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 10347/2026, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 6.100,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15251/visualizar",
+      "motivos_originais": [
+        "Categoria: Lacuna informacional e Aditamento sem valor. Evidência literal: Campo \"Detalhe - Aditamentos\" com \"Número Valor Detalhar 01/2026 R$ 0,00\" e campo \"Detalhe - Itens\" com \"Nenhum item encontrado.\". Fato observado: Aditamento registrado com valor financeiro de R$ 0,00 e ausência de detalhamento de itens. Hipótese e limite: Pode se tratar de aditamento de prazo ou alteração qualitativa sem impacto financeiro, constituindo lacuna informacional na publicação. Documentos necessários: Termo aditivo original e justificativa técnica. Próxima diligência: Solicitar cópia do termo aditivo 01/2026."
+      ],
+      "documentos": [
+        {
+          "rotulo": "3162026TURISMO.pdf",
+          "tipo": "pdf_publicado",
+          "nota_tipo": "PDF publicado: conferir identidade e tipo documental no original.",
+          "status": "lido",
+          "paginas": 10,
+          "sha256": "63ab8945a44ddc79b8e5d1ff7c183c5e735a8f7d8c92baaef2d87638968ad47a",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/e4582d491e4ab05ba258c5534fe9c8184388024f0e97effa76c37e169e43d833.pdf",
+          "url": "https://pncp.gov.br/pncp-api/v1/orgaos/29131075000193/contratos/2026/326/arquivos/1"
+        },
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "e947188ee48f85746c4f7dceb26be8eaa2569f2c6164b717183b487603283a3b",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/b5a06cd8d845fa7f310c28e919ba2402e37fdb18c733731135d2383e9f8391be.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15251/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "72171b1c6b8fdf8b76b34891eecc37b24f9aa3f97221b39290f4f82e8083cd8c",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/356a3b5fe87ed2558c68f4e082042342cb88b6037c9fc0e5600df378ccdfbeb0.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482988/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 288,
+      "numero": "50 - 2026",
+      "processo": "11853/2026",
+      "fornecedor": "YURE HENRIQUE SILVA 12196248703",
+      "objeto": "REALIZAR 03 (TRÊS) APRESENTAÇÕES ARTÍSTICAS DO GRUPO MURIQUINHO PEQUENINO, PARA O EVENTO ?FÉRIAS NOS EQUIPAMENTOS CULTURAIS DA CIDADE DE MARICÁ 2026?, A SEREM REALIZADO NOS DIAS:",
+      "valor": "R$ 3.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15433/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 317,
+      "numero": "269 - 2026",
+      "processo": "9606",
+      "fornecedor": "CONCEPT WORK LTDA",
+      "objeto": "O PRESENTE CONTRATO TEM POR OBJETO A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO SERVIÇO DE RECOLHIMENTO, MANEJO E ACOLHIMENTO DE ANIMAIS DE GRANDE PORTE (EQUINOS), DEVIDAMENTE DESCRITOS, CARACTERIZADOS E ESPECIFICADOS NO TERMO DE REFERÊNCIA (ANEXO III DO EDITAL PREGÃO ELETRÔNICO N.º 08/2026).\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 9606/2025, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS FORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 432.120,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15178/visualizar",
+      "motivos_originais": [
+        "Coincidências de processos e objetos; evidência literal com nome do campo: Detalhe - Processo '20616/2025'; fato observado: Mesmo processo administrativo associado à linha 6 e outras da mesma secretaria; hipótese e limite: Registros decorrentes do mesmo procedimento licitatório; documentos necessários: Processo administrativo 20616/2025 completo; próxima diligência: Conferir o termo de referência para correlacionar os itens adjudicados a cada empresa."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "5c0b1d097fe4d400d4c97d66a9793fb9210fece86088fe19a2b094aad57dbdba",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/887a0fb98735ef23acedf416b699f1d64cd96cf14fd66dc48a649b21d5b7c651.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15178/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "481eaf0faa27fef00038d93b6e7fa738260b6fec6ab1a7260f5603d38b7582a3",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/123bab82f46d7700c56a4d3648ef83659240578a4d308250f0fc9432d7552af5.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482900/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 340,
+      "numero": "250 - 2026",
+      "processo": "14158/2025",
+      "fornecedor": "MAURILIO SOARES",
+      "objeto": "O MUNICÍPIO RECONHECE QUE OCUPOU O IMÓVEL LOCALIZADO NA RUA B, Nº 372, LOTEAMENTO VEREDAS DAS PALMEIRAS, SPAR, UNIDADE 27-C, INOÃ, MARICÁ/RJ, CEP: 24944-204, COM MATRÍCULA NO REGISTRO GERAL (RGI) DE IMÓVEIS SOB O NÚMERO 71.710, DURANTE O PERÍODO 18/01/2024 E 15/06/2025, SEM COBERTURA CONTRATUAL, CONFORME MANIFESTAÇÃO DO LOCADOR À FLS. 21, AUTORIZAÇÃO DA AUTORIDADE COMPETENTE À FLS. 111/112, PARECER DA PROCURADORIA GERAL DO MUNICÍPIO (PGM) ÀS FLS. 38/39, PARECER DA CONTROLADORIA GERAL DO MUNICÍPIO (CGM)  ÀS FLS. 53/60 E 118/119, CONFORME PROCESSO ADMINISTRATIVO N.º 14158/2025, GERANDO PARA O ACORDANTE O DIREITO A CONTRAPRESTAÇÃO DE NATUREZA INDENIZATÓRIA, CONFORME VALORES DESCRITOS NA CLÁUSULA SEGUNDA DESTE TERMO.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15098/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor Explicitamente Zero em Objeto Oneroso / Indenização sem cobertura contratual. Evidência literal: Campo 'Detalhe - Valor Global' e 'Valor do Contrato' indicando 'R$ 0,00' e 'R$ 0.00'. Fato observado: O contrato possui objeto oneroso/indenizatório referente a ocupação de imóvel sem cobertura contratual (Processo 14158/2025), com valor explicitamente zero. Hipótese e limite: Hipótese de que o valor indenizatório pode estar registrado em outro termo ou anexo não contemplado na tabela; limite de que a ausência de valor na publicação não comprova ilegalidade na formação do acordo. Documentos necessários: Processo administrativo n.º 14158/2025 completo, incluindo memória de cálculo da indenização e pareceres da PGM e CGM. Próxima diligência: Requisitar a íntegra do processo administrativo e os cálculos que fundamentaram o reconhecimento da dívida."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "c73e3aa3b48690622fd541b5f9c0d5f5f913b95261ec9af8129d8801869614ca",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/e9e1678970945aaeaa4406f88f3bd3b28c37f2a7e3b5d2876cd1ba564325c686.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15098/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "393a4f5d56c84f444c35d76133e1598d73dd5ae120e4cdbadb84bbc7f3cb0737",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/2a2422ed8828dccfb1c3f3b7ed5a15d6565380fb7dc8cd5ae6f8651c6ea1938b.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482831/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 347,
+      "numero": "23 - 2026",
+      "processo": "0002585/2025",
+      "fornecedor": "MARICA CAMARA MUNICIPAL",
+      "objeto": "GESTÃO EFICIENTE DE BENS PÚBLICOS OBSOLETOS, DE RECUPERAÇÃO ANTIECONÔMICA OU INSERVÍVEIS A SER EXECUTADO NA CÂMARA MUNICIPAL DE MARICÁ.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15503/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor Explicitamente Zero em Objeto de Parceria. Evidência literal: Campo 'Detalhe - Valor Global' e 'Valor do Contrato' indicando 'R$ 0,00' e 'R$ 0.00'. Fato observado: Termo de Cooperação Técnica (Contrato nº 23-2026, Processo 0002585/2025) para gestão de bens públicos obsoletos junto à Câmara Municipal, com valor explicitamente zero. Hipótese e limite: Hipótese de que o ajuste possui natureza de cooperação sem repasse financeiro mútuo; limite de que a tabela não detalha eventuais custos operacionais indiretos. Documentos necessários: Termo de Cooperação Técnica assinado e processo administrativo n.º 0002585/2025. Próxima diligência: Verificar no processo se há previsão de encargos financeiros para alguma das partes."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "0b1da15502570b5e36f79401ab62259dd29c2fc115fc0161fa3d47f60d9302e8",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/d8f62f180da7814f9d526824947254cdf09ac4a6cc9a87e468f8eb3172d99cfc.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15503/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "72b09db17967e5bf36c5bd46a14788a4e2ab4e63bbb01ae8047699741302b27d",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/9b5f02da2452224212423abbb10a68d53aee38ed8b23765de720100cd5f7722a.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220483171/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 352,
+      "numero": "57 - 2026",
+      "processo": "22254/2025",
+      "fornecedor": "LJR SOLUCOES EM RECURSOS HUMANOS LTDA",
+      "objeto": "O OBJETO DO PRESENTE É A CONTRATAÇÃO EMERGENCIAL DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE HOME CARE - MATERIAL DE USO PERMANENTE (CAMA HOSPITALAR ELÉTRICA, COLCHÃO PNEUMÁTICO, MONITOR MULTIPARAMÉTRICO, ASPIRADOR ELÉTRICO DE MESA, AMBU PEDIÁTRICO COMPLETO, VENTILADOR BIPAP) E ACOMPANHAMENTO MULTIDISCIPLINAR (FISIOTERAPIA RESPIRATÓRIA E MOTORA 1X AO DIA, TERAPIA OCUPACIONAL 1X NA SEMANA, FONOAUDIOLOGIA 1X POR SEMANA, PEDIATRIA 1X AO MÊS E NEUROPEDIATRA 1X A CADA 3 MESES), EM VIRTUDE DO OFÍCIO N.º V1146/2025 DA DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO, DEVIDAMENTE DESCRITO, CARACTERIZADO E ESPECIFICADO NO TERMO DE REFERÊNCIA.\\N\\NPARÁGRAFO ÚNICO - O OBJETO DO CONTRATO SERÁ EXECUTADO COM OBEDIÊNCIA RIGOROSA, FIEL E INTEGRAL DE TODAS AS EXIGÊNCIAS, NORMAS, ITENS, ELEMENTOS, CONDIÇÕES GERAIS E ESPECIAIS, CONTIDOS NO PROCESSO ADMINISTRATIVO N.º 22254/2025, NO TERMO DE REFERÊNCIA, EM DETALHES E INFORMAÇÕES FORNECIDAS PELO CONTRATANTE, BEM COMO NAS NORMAS TÉCNICAS PARA A EXECUÇÃO DOS SERVIÇOS.",
+      "valor": "R$ 456.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15066/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 376,
+      "numero": "34 - 2026",
+      "processo": "7572/2026",
+      "fornecedor": "JG SHOWS LTDA",
+      "objeto": "APRESENTAÇÃO ARTÍSTICA DE JOÃO GOMES, NO EVENTO ?PADROEIRA ABRAÇA SÃO JOÃO\", A SER REALIZADO NO DIA 13 DE AGOSTO DE 2026, ÀS 21 HORAS NO MUNICÍPIO DE MARICÁ.",
+      "valor": "R$ 850.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15411/visualizar",
+      "motivos_originais": [
+        "Categoria: Objeto vago e fornecimento sem discriminação de custos no dado disponível. Evidência literal: 'Detalhe - Objeto' informando 'APRESENTAÇÃO ARTÍSTICA DE JOÃO GOMES, NO EVENTO PADROEIRA ABRAÇA SÃO JOÃO' para o Contrato nº 34/2026 (Processo nº 7572/2026) com 'Detalhe - Valor Global' de 'R$ 850.000,00'. Fato observado: Contratação por inexigibilidade de show artístico de grande valor sem detalhamento de custos unitários na tabela consultada. Hipótese e limite: O valor global elevado reflete a contratação de artista consagrado, porém a falta de discriminação dos custos (cachê, rider técnico, transporte, hospedagem) no resumo impede avaliar a adequação do preço. Documentos necessários: Processo de Inexigibilidade de Licitação nº 7572/2026, proposta comercial detalhada da empresa JG Shows Ltda, notas fiscais anteriores e comprovação de exclusividade. Próxima diligência: Solicitar o procedimento completo de inexigibilidade para análise da compatibilidade do cachê com o mercado."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "42ae393b4170e54720f359d51280ea88ec0b139feec4f3adabc57a26db281327",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/fe967ad2878093a1eff253eba1fe5c392fd07e0569f7350092dd9c3dbb8fd342.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15411/contrato/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 378,
+      "numero": "240 - 2026",
+      "processo": "9428/2026",
+      "fornecedor": "COTEF CENTRO DE ORIENT. E EST. FAZE",
+      "objeto": "CONTRATAÇÃO DE 03 (TRÊS) INSCRIÇÕES PARA A PARTICIPAÇÃO DE SERVIDORES DA SECRETARIA DE GESTÃO TRIBUTÁRIA E FISCAL (SEGET) NO CURSO \"CURSO DE ITBI E AVALIAÇÃO IMOBILIÁRIA - FORMAS DE VALORAÇÃO DE IMÓVEIS URBANOS E RURAIS'''', UM TREINAMENTO DE NATUREZA TÉCNICA E INTELECTUAL, VOLTADO AO APERFEIÇOAMENTO PROFISSIONAL, A SER REALIZADO NA MODALIDADE ONLINE AO VIVO, NOS DIAS 17, 18 E 19 DE JUNHO DE 2026, ORGANIZADO PELA INSTITUIÇÃO COTEF - CENTRO DE ORIENTAÇÃO EM TRIBUTOS E ESTUDOS FAZENDÁRIO",
+      "valor": "R$ 2.700,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15073/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    },
+    {
+      "linha": 384,
+      "numero": "30 - 2026",
+      "processo": "22499/2025",
+      "fornecedor": "INSTITUTO DE DESENVOLVIMENTO INTEGRAL VI",
+      "objeto": "O PRESENTE TERMO TEM POR OBJETO A COOPERAÇÃO TÉCNICA ENTRE MUNICÍPIO DE MARICÁ, POR MEIO DA SECRETARIA DE EDUCAÇÃO E O INSTITUTO VINI JUNIOR A EXECUÇÃO DE PROJETO EDUCACIONAL REFERENCIADO PELA BASE NACIONAL COMUM CURRICULAR (BNCC), UTILIZANDO A LINGUAGEM E O FASCÍNIO DO FUTEBOL COMO INSTRUMENTO PEDAGÓGICO PARA FORTALECER O PROCESSO DE ENSINO-APRENDIZAGEM, BEM COMO PROMOVER A EDUCAÇÃO PARA AS RELAÇÕES ÉTNICO-RACIAIS, POR MEIO DO SOFTWARE EDUCATIVO DESENVOLVIDO PELO INSTITUTO VINI JUNIOR.",
+      "valor": "R$ 0,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15009/visualizar",
+      "motivos_originais": [
+        "Categoria: Valor explicitamente zero em objeto oneroso; Evidência literal com nome do campo: 'Detalhe - Valor Global' e 'Valor do Contrato' indicando 'R$ 0,00' e 'R$ 0.00'; Fato observado: Termo de parceria com valor explicitamente zero; Hipótese e limite: Pode tratar-se de cooperação técnica sem repasse financeiro, mas sem a íntegra do plano de trabalho não é possível confirmar a onerosidade; Documentos necessários: Plano de trabalho integral e instrumento do convênio; Próxima diligência: Solicitar cópia integral do convênio e plano de trabalho para verificar se há previsão de repasses financeiros futuros ou se trata de acordo puramente não oneroso."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "704c155ef2cc41073a3ab8f483ed51dfd349383338d6db8f3bd7c860b681a9e7",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/734355ad268971f8a187c83d5ae0d84ad9cdd543ecafb4512062f7a4247dbf18.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15009/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "0b17329d0a669737af55b206b31932a54f8283d54d7f628b9d2eadf528741ab4",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/1ff39b1aebec173aba8408dc72a0e2457756a2f2e0891df147cc056494ebca0c.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482785/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "5ec0f55c7fb4b57a8b430e9fb5f94ae8d26d16fced70c83ebd46b866ac03c35e",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/0d21f03ab1b64ba4b6162aec71da93be85b93e52c44147d05d07022f4a025ae5.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482786/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 397,
+      "numero": "11 - 2026",
+      "processo": "14564/2025",
+      "fornecedor": "RGK PRODUTOS E SERVICOS LTDA",
+      "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA",
+      "valor": "R$ 4.140,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15158/visualizar",
+      "motivos_originais": [
+        "Categoria: Coincidência de valores globais e divergência de itens; Evidência literal com nome do campo: 'Valor do Contrato' indicando 'R$ 4140.00' e 'Detalhe - Itens' contendo repetições de luvas com valores que somam montante superior ao valor global informado; Fato observado: Divergência aritmética nos itens descritos na tabela em relação ao valor global do contrato, além de coincidência de valor global com a linha 14; Hipótese e limite: Erro material na transcrição dos itens no portal de transparência ou inconsistência contratual; Documentos necessários: Cópia integral do contrato e proposta comercial vencedora; Próxima diligência: Solicitar o contrato assinado e a proposta para checar os quantitativos e valores unitários corretos."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "2db5eee23035145f41dcfa4e5e5a1977425e1ca06b1f2d9f9f60b090eabaa7bf",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/414658a9e6f8e6ebe5c2957487e011b166d74287eddc018893e36363126cdcf2.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15158/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "23d683b6b3fb7512781dba6eff8e921774ad7ee12fa89ea44c3a7270f8107ce2",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/17ac0d426f738143be6e22e22f9c7e5abb90d80bfe6c6de51e060f48e41247d4.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482838/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "645f044b7345dbb25495ef2dd830a280fd27c1ee188d6c204999c5cc5b917db3",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/57f6c53ef43889fd30e80ea7084422db485acd44075ce0f03238a3bb5f99e0bc.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482839/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "e4c705c6576e3bfab87e3be731272f5e0bb61e872321ffd83d5223bbdc27aa59",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/895738beca8753abaea20307749231a3363246c6ae6455a0420a09ba8c160617.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482840/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 417,
+      "numero": "6 - 2026",
+      "processo": "6923/2026",
+      "fornecedor": "51.751.057 ANDREI YURI BENTES V DA SILVA",
+      "objeto": "CONTTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE SERVIÇOS DE JARDINAGEM",
+      "valor": "R$ 54.648,05",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15048/visualizar",
+      "motivos_originais": [
+        "Categoria: Lacuna de especificação de itens. Evidência literal: Campo \"Detalhe - Itens\" apresentando valor global sem discriminação detalhada de insumos. Fato observado: Serviço de jardinagem e paisagismo agrupado em \"1 UNIDADE R$ 54.648,05\". Hipótese e limite: Hipótese de abrangência de múltiplos insumos e serviços sob uma única unidade de medida; limite restrito à tabela pública disponível. Documentos necessários: Planilha orçamentária detalhada e memória de cálculo. Próxima diligência: Obter o processo administrativo nº 6923/2026."
+      ],
+      "documentos": [
+        {
+          "rotulo": ".pdf",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "59791ee29f365989cf52a8b4c3432326691041879edb2663f99be95145fe50ef",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/21e40313669e8a4c2ab4e428472a7a1301975b392092e1f9cecfdddf566d6089.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15048/contrato/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "d2eb7fe379380af325b39384d1f1e1dd8df910315e8cc0be4f391ac1ec204dc0",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/ac5891c4afc533507867d199b2bc06b729bf91ae00d49e6a3d30bce02f431bbf.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482727/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "6c2d4e41a21cbd3f14d330885f342598e0b000d11245c3b1f3936a57010cec22",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/0bbc3119794c2f07a860ebda0fe5bf7bda5531d9bfa7769c3f199331485566b5.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482728/documento/download"
+        },
+        {
+          "rotulo": "Documento publicado",
+          "tipo": "ficha_portal",
+          "nota_tipo": "Exportação da ficha cadastral do portal; não é o instrumento contratual integral nem seus anexos.",
+          "status": "lido",
+          "paginas": 1,
+          "sha256": "c5b749ae0ee81da5160aa6ee1f67c1100faa7bea42e189dc2fee5c57b5b48515",
+          "local": "../reports/20261020T015002Z_72b23869/documentos/1d81d95a9ad48b2abec00df6a3cd8fb96290541bd45e604c972feed9efef30f9.pdf",
+          "url": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/3220482729/documento/download"
+        }
+      ],
+      "nota_documental": "Arquivos e classificação do manifesto local; confira o original. Extração não equivale à validação de conteúdo."
+    },
+    {
+      "linha": 420,
+      "numero": "39 - 2026",
+      "processo": "9626/2026",
+      "fornecedor": "NIVEA MADUREIRA DA SILVA BAPTISTA 099852",
+      "objeto": "APRESENTAÇÃO ARTÍSTICA DE NIVEA SILVA, NO EVENTO \"MARICÁ PELA PAZ\" , A SER REALIZADO NO DIA 06 DE JUNHO DE 2026, ÀS 20H, NO ENDEREÇO PRAÇA ORLANDO DE BARROS PIMENTEL, NO MUNICÍPIO DE MARICÁ/RJ.",
+      "valor": "R$ 30.000,00",
+      "url_contrato": "https://transparencia.marica.rj.gov.br/e-cidade/contratos/padrao/15416/visualizar",
+      "motivos_originais": [],
+      "documentos": [],
+      "nota_documental": "Sem dossiê documental compatível disponível neste caderno."
+    }
+  ],
+  "fontes_sha256": {
+    "contratos.json": "e721481d7dfa1ec716cae027bc70f7c03eb560a5f19bb1ec817d0a5fc701f689",
+    "parecer.json": "9c541bd8923bc7582777609787df869a52ac012cd71026a002672205557d242c",
+    "documentos.json": "e430a008c89e21bb6cba02100504e81d8b6d94e869fec36c7c23d53d2bd2883c",
+    "referencia_base": "f727cc3fa0efd1ba67afaaa96cad3e562f32f7305461dcf594dc57fa8cd7111c"
+  },
+  "arquivos_documentais_conferidos": {
+    "documentos\\9131bd283bef79eaba79f5f69ffbc23b7ccc8532d1c09107eb074e8bc6524637.pdf": "dac3e74a1bf97bb724cab3ee0388dfffd60c3ee1b06363a0938e26dcf9b46730",
+    "documentos\\2c8f8d67686f32dd37681ace1a8bfd3b8448043d83f719db43473b1c7f53c83e.pdf": "f7c18e634fd0167b17500eaf23a347a14edbf842c0bfb85c0d2edf5707f00c5d",
+    "documentos\\dd27c4935bbe3a4d3c6a6b8bc0c2877fbca48dfcc1aa62c4df273500b4a5ff3d.pdf": "47aea3bcecc4631c6bc853d979db0bcd1c37894659e9a46ad2e13a00d514d047",
+    "documentos\\95deec78f748c47acfd7cf22511dc4fd10fe8849547b3ffe2f374fc9e1621013.pdf": "1ec1fe3d67a6ad6d34d60d124e9de2003566e83eb523c972d431223657f1fcaa",
+    "documentos\\418389bcf7b214ffc7a46c1fd76936d207f81dbf297162a8df8e76f15a602bf8.pdf": "de1223ae6bf6637c5dd04f8ee91fb92b75b45ef10d72e96bcd78ac8a064c2afe",
+    "documentos\\bdd47b772ee10479e40701609b7ede9c418df7b3a0243b90a3a7043691c86d24.pdf": "5f6033c0cf18d3f9868b34e9a6decfe27d6a3bc61cd5b2ff594f70015d002325",
+    "documentos\\bebfa40c18d153e729f7745b23310f3e0a6d885b319dcdc6c44b3e9eb031f070.pdf": "ba25675d8d83c9e830ff910168bcce59b36180cf924b69235ab244430626dd50",
+    "documentos\\460bc36008e4c117a2c7669ddbc259c96212fc3f12c1b6f57ff7c40d74f9fa51.pdf": "4145f9633ed923380f2f5ba17c298260af08c918af16bb2bf4ec30df8d43abce",
+    "documentos\\7c07667c5d3939aa47ab0e0033a347c765c5e21a1e4502fd4fe8d145b11e8817.pdf": "d620651f9900bdf1a0cd0cc95928d1eb674fba48b7b5f72c81b0bbb930b30f7d",
+    "documentos\\6a7bf8f18ec33309484939feb4cf75702ea92f2babc2fc67e533293bc3ced2c6.pdf": "2d7b257b6a46f4c38ad0c988913baff16673a2e8c8944a5d1d861b8b974b8367",
+    "documentos\\91011ac452e64b8823a61987553f37c7230ed5c6be92b70fd104694233957a08.pdf": "9e3b17889807d100d4150d3f08a2dc73ae5166120864493579ed1877834fc540",
+    "documentos\\7b5f497878683544c7f28835430dc66cb81c0838dc49f96208bc4056a383ad78.pdf": "58130afbd775fb26789b8a5180c0b46e8876a9c0487b4758cb5611a3079e9a49",
+    "documentos\\2e0d0a534261157ba49c9fbe34afd3ee5eeaecf33876b8d14700230146842f9e.pdf": "441d5d56083ce201c8ec07e8a6eefe07ca70b591c2e32cb5a9fbdad63a5a0c23",
+    "documentos\\d924d60f516426bf4dc7f7868e3477db5afbf762f5a89e8d33bd79ab7e6cfad7.pdf": "5d8da03ada36375ad0321574b1d458d784975ff0b71bd48fe0dc420521761af9",
+    "documentos\\29f7a2e8153e36282358327150f5351165479f4f318956c971b62965c050fd4f.pdf": "000f307e2870507e0c6b93a68043aba477650e785548f4fe2b7f14dd68186523",
+    "documentos\\1b8ae28d7a0e86d824b480f5e70d9016b66af52a25c5505551885f25e2a8e615.pdf": "147ce3533681216230a597eb4884dc9289d2bc8641f66d5f4c8a151aefd259f6",
+    "documentos\\5c1f02a9a6d3da5fc339958cb54d0a1d7e0815991a13f9e514268914690389b8.pdf": "a6eabf2e5d3cacb4e413900653974ab639dbe94220af63c817585fcced647ee4",
+    "documentos\\c819a2c74ca8b01a61ad7915342d488c1b9e9d553dc66a090c8628e81fd64708.pdf": "e71eb3da1314860728c93747e7d28d25fc03830188c365a02fb46df05f2dafe1",
+    "documentos\\64f24d779627910af6f52632380958520c9fd5df9262ddc81db2b4b29bfd9ee8.pdf": "cd568e3c911d827f4fc555e5281da5ebaebc1b864644d192850c94efc96e5214",
+    "documentos\\02714664d6781a35973c255017c9fa1ea73a3bac5871ee77258cf0a045ac7be6.pdf": "059fd2d24864e915b64a7d6cef4f22b434bbe4dce697bae2902931bb45eeb5bf",
+    "documentos\\3c6e1b3fffab43f0e9ba5edb6ca1662671aaf49169d79330a91d8b14f22b25f8.pdf": "8ef7ce95b0db16f2a0a7b3101b814f5ee32c6e9305571e82c91468a00d0a1bfe",
+    "documentos\\e8db1d0e9680cde3d84b265f8024f32db2a7cfe3505c7c7b805671efc5b15b45.pdf": "0cb12c6db69d188033865b3d96d76be59bbcdbb8ea04a43cc234b8402c68cc22",
+    "documentos\\fe70bb29b2d8f104068dc2888ade8a93b31de52504203e8a1f4d6892a682c59e.pdf": "f02009b469ddea5604da7dfcbbaaa3affa3c9a8539bbe32ae52331320ae29dd6",
+    "documentos\\73a4d70d7f94eb8ffd48f439aed45a301a82de61f4b791768a69073c2d85d68d.pdf": "dd6a5bf96a2fd58fdbd563ccf5cbb413b31350acf37f3cb14e4ba9ceedc0b066",
+    "documentos\\42252f1254e2ffa727ab849b9ded17125a0ede1bfc088d19b9ac4cb47c90791d.pdf": "dde85ffeb407266350149d8d5396afa24e99784d26e566f56cfbf819858cc3c0",
+    "documentos\\dfd4cc7d4ad9a771e801b45268cf631bced807081b2191ba6263eb4c5b979509.pdf": "3c10dd342ebd4c8840917d816b5a3b831a378739dbec891696c99ad46a4f0e09",
+    "documentos\\d585ebde2f55ff8812fcc5bce82b7bfe54bc89c3f570607af4c99db7c22628a5.pdf": "e529492ba0157831dd5ef939bdd2f66eb9a381e109d0a37f448cea522998d58b",
+    "documentos\\aeb78f872b4417449e820e8bd540add6f83d197f368aae595d9c8f38c499953e.pdf": "e572e52d378ca83f6dc67cecaa5696868a2f38051f729f5d137ba8d079313a3b",
+    "documentos\\d3181b5f132e8c78c4d9ebc010cfad749aa04279a8b88e4599a8818ab3ba3551.pdf": "9130fad2a7e69f4b5d80d013b7881c920ce30d66bb503de6bd4c4e8bcb67fdc8",
+    "documentos\\e4582d491e4ab05ba258c5534fe9c8184388024f0e97effa76c37e169e43d833.pdf": "63ab8945a44ddc79b8e5d1ff7c183c5e735a8f7d8c92baaef2d87638968ad47a",
+    "documentos\\b5a06cd8d845fa7f310c28e919ba2402e37fdb18c733731135d2383e9f8391be.pdf": "e947188ee48f85746c4f7dceb26be8eaa2569f2c6164b717183b487603283a3b",
+    "documentos\\356a3b5fe87ed2558c68f4e082042342cb88b6037c9fc0e5600df378ccdfbeb0.pdf": "72171b1c6b8fdf8b76b34891eecc37b24f9aa3f97221b39290f4f82e8083cd8c",
+    "documentos\\887a0fb98735ef23acedf416b699f1d64cd96cf14fd66dc48a649b21d5b7c651.pdf": "5c0b1d097fe4d400d4c97d66a9793fb9210fece86088fe19a2b094aad57dbdba",
+    "documentos\\123bab82f46d7700c56a4d3648ef83659240578a4d308250f0fc9432d7552af5.pdf": "481eaf0faa27fef00038d93b6e7fa738260b6fec6ab1a7260f5603d38b7582a3",
+    "documentos\\e9e1678970945aaeaa4406f88f3bd3b28c37f2a7e3b5d2876cd1ba564325c686.pdf": "c73e3aa3b48690622fd541b5f9c0d5f5f913b95261ec9af8129d8801869614ca",
+    "documentos\\2a2422ed8828dccfb1c3f3b7ed5a15d6565380fb7dc8cd5ae6f8651c6ea1938b.pdf": "393a4f5d56c84f444c35d76133e1598d73dd5ae120e4cdbadb84bbc7f3cb0737",
+    "documentos\\d8f62f180da7814f9d526824947254cdf09ac4a6cc9a87e468f8eb3172d99cfc.pdf": "0b1da15502570b5e36f79401ab62259dd29c2fc115fc0161fa3d47f60d9302e8",
+    "documentos\\9b5f02da2452224212423abbb10a68d53aee38ed8b23765de720100cd5f7722a.pdf": "72b09db17967e5bf36c5bd46a14788a4e2ab4e63bbb01ae8047699741302b27d",
+    "documentos\\fe967ad2878093a1eff253eba1fe5c392fd07e0569f7350092dd9c3dbb8fd342.pdf": "42ae393b4170e54720f359d51280ea88ec0b139feec4f3adabc57a26db281327",
+    "documentos\\734355ad268971f8a187c83d5ae0d84ad9cdd543ecafb4512062f7a4247dbf18.pdf": "704c155ef2cc41073a3ab8f483ed51dfd349383338d6db8f3bd7c860b681a9e7",
+    "documentos\\1ff39b1aebec173aba8408dc72a0e2457756a2f2e0891df147cc056494ebca0c.pdf": "0b17329d0a669737af55b206b31932a54f8283d54d7f628b9d2eadf528741ab4",
+    "documentos\\0d21f03ab1b64ba4b6162aec71da93be85b93e52c44147d05d07022f4a025ae5.pdf": "5ec0f55c7fb4b57a8b430e9fb5f94ae8d26d16fced70c83ebd46b866ac03c35e",
+    "documentos\\414658a9e6f8e6ebe5c2957487e011b166d74287eddc018893e36363126cdcf2.pdf": "2db5eee23035145f41dcfa4e5e5a1977425e1ca06b1f2d9f9f60b090eabaa7bf",
+    "documentos\\17ac0d426f738143be6e22e22f9c7e5abb90d80bfe6c6de51e060f48e41247d4.pdf": "23d683b6b3fb7512781dba6eff8e921774ad7ee12fa89ea44c3a7270f8107ce2",
+    "documentos\\57f6c53ef43889fd30e80ea7084422db485acd44075ce0f03238a3bb5f99e0bc.pdf": "645f044b7345dbb25495ef2dd830a280fd27c1ee188d6c204999c5cc5b917db3",
+    "documentos\\895738beca8753abaea20307749231a3363246c6ae6455a0420a09ba8c160617.pdf": "e4c705c6576e3bfab87e3be731272f5e0bb61e872321ffd83d5223bbdc27aa59",
+    "documentos\\21e40313669e8a4c2ab4e428472a7a1301975b392092e1f9cecfdddf566d6089.pdf": "59791ee29f365989cf52a8b4c3432326691041879edb2663f99be95145fe50ef",
+    "documentos\\ac5891c4afc533507867d199b2bc06b729bf91ae00d49e6a3d30bce02f431bbf.pdf": "d2eb7fe379380af325b39384d1f1e1dd8df910315e8cc0be4f391ac1ec204dc0",
+    "documentos\\0bbc3119794c2f07a860ebda0fe5bf7bda5531d9bfa7769c3f199331485566b5.pdf": "6c2d4e41a21cbd3f14d330885f342598e0b000d11245c3b1f3936a57010cec22",
+    "documentos\\1d81d95a9ad48b2abec00df6a3cd8fb96290541bd45e604c972feed9efef30f9.pdf": "c5b749ae0ee81da5160aa6ee1f67c1100faa7bea42e189dc2fee5c57b5b48515"
+  }
+}

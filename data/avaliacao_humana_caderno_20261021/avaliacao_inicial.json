@@ -1,0 +1,19 @@
+{
+  "versao": 1,
+  "avaliado_em": "2026-10-21T19:53:34.535730+00:00",
+  "coleta_sha256": "26555b78341bb4cf318f9f6e1bb361d44f0f3e243474e15595d2bc517fd4b52b",
+  "parecer_sha256": "a96e7164bcdfab0b64b005fcf6bddecec5e621b855c1c7e1653cfab3101ece7f",
+  "referencia_sha256": "edcc58d36b9463277c0d6e218851b63fe0e336bbae09301328d04a25b4c2097f",
+  "escopo": "somente_amostra_avaliada",
+  "nota": "Diligência não é irregularidade comprovada. Métricas não extrapolam a amostra. Denominador zero produz null; decisões pendentes não contam como acerto.",
+  "selecionados": 40,
+  "avaliados": 0,
+  "pendentes": 40,
+  "verdadeiros_positivos": 0,
+  "falsos_positivos": 0,
+  "verdadeiros_negativos": 0,
+  "falsos_negativos": 0,
+  "precisao": null,
+  "sensibilidade": null,
+  "f1": null
+}

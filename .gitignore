@@ -1,0 +1,44 @@
+# Ambientes e segredos
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Python cache e logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Bloqueios e arquivos temporários
+*.lock
+*.tmp
+
+# Backups e arquivos grandes (arquivos > 100MB são rejeitados pelo GitHub)
+backups/
+*.zip
+
+# Dados locais de execução, relatórios e jobs
+data/raw/*/
+data/pdfs/*
+data/vectordb/*
+!**/.gitkeep
+data/reports/
+data/gazette_cache/
+data/test_runtime/
+data/ui_jobs/
+data/scratch/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/qa/
+
+# Scripts .bat: manter exclusivamente o iniciar_painel.bat
+*.bat
+!iniciar_painel.bat

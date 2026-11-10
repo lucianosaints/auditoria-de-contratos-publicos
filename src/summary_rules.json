@@ -1,0 +1,69 @@
+{
+  "versao": 1,
+  "nota": "Explicação automática baseada nos dados publicados e nos alertas do parecer. Não confirma pagamento, ilegalidade ou responsabilidade. As diligências são sugestões; o sistema não enviou requisições.",
+  "regras": [
+    {
+      "id": "sem_cobertura",
+      "fonte_contem": ["sem cobertura contratual", "sem contrato vigente"],
+      "titulo": "Serviços sem cobertura contratual",
+      "em_resumo": "O documento registra serviços prestados sem contrato cobrindo o período. É preciso conferir como essa obrigação foi reconhecida e calculada.",
+      "em_resumo_divida": "O documento registra o reconhecimento de uma dívida{valor_trecho} por serviços prestados sem contrato cobrindo o período.",
+      "problema_principal": "A própria descrição publicada informa que os serviços foram executados sem cobertura contratual. Isso precisa ser esclarecido no processo administrativo.",
+      "significado_pratico": "É preciso entender por que os serviços foram prestados nessa situação e conferir os valores. Reconhecer uma dívida não comprova que ela já foi paga nem define, por si só, quem é responsável.",
+      "proxima_diligencia": "Solicitar o processo administrativo{processo_trecho} completo, com os pareceres, as medições e os comprovantes de recebimento. Conferir a entrega dos serviços, os cálculos, o período atendido e as decisões que levaram à contratação."
+    },
+    {
+      "id": "valor_zero",
+      "parecer_contem": ["valor zero", "valor zerado", "valor explicitamente zero"],
+      "titulo": "Valor publicado igual a zero",
+      "em_resumo": "O registro informa valor igual a zero. É necessário conferir se há gratuidade, outra forma de custeio ou um problema no cadastro.",
+      "problema_principal": "O valor disponível na coleta é zero. Esse dado, sozinho, não explica como o objeto será custeado.",
+      "significado_pratico": "Um valor igual a zero pode ter uma justificativa legítima. O resumo não basta para concluir que houve uma despesa irregular.",
+      "proxima_diligencia": "Consultar o instrumento e o processo administrativo{processo_trecho}. Verificar se existe repasse financeiro, justificativa de gratuidade ou necessidade de corrigir o valor publicado."
+    },
+    {
+      "id": "precos",
+      "parecer_contem": ["sobrepreco", "precos de mercado", "compatibilidade dos precos", "composicao dos custos", "planilha de custos", "vantajosidade"],
+      "titulo": "Preços e composição dos custos",
+      "em_resumo": "O alerta pede uma conferência dos preços e dos custos. O valor total, sozinho, não demonstra que a administração pagou caro demais.",
+      "problema_principal": "O parecer aponta uma dúvida sobre os preços, seu detalhamento ou a comparação com outras soluções. É preciso consultar os documentos que sustentam os valores.",
+      "significado_pratico": "Para saber se o preço faz sentido, é necessário comparar a mesma quantidade, qualidade, prazo e condições de fornecimento. Sem isso, não se pode afirmar sobrepreço.",
+      "proxima_diligencia": "Solicitar a planilha de custos, as quantidades, os preços por unidade e a pesquisa de mercado. Quando houver alternativas de solução, conferir também o estudo que justifica a escolha no processo{processo_trecho}."
+    },
+    {
+      "id": "ata",
+      "parecer_contem": ["ata de registro", "situacao da ata", "origem da ata", "adesao", "licitacao"],
+      "titulo": "Origem e documentos da contratação",
+      "em_resumo": "O alerta pede a conferência de como a contratação foi feita e dos documentos usados para justificá-la.",
+      "problema_principal": "Há uma questão sobre o procedimento ou os documentos da contratação que precisa ser esclarecida. A menção a uma ata ou adesão, por si só, não indica irregularidade.",
+      "significado_pratico": "É necessário conferir o que foi autorizado, quais condições estavam vigentes e quais justificativas foram apresentadas. Anulação ou suspensão só pode ser tratada como fato com a decisão oficial correspondente.",
+      "proxima_diligencia": "Solicitar o edital, a ata, as autorizações e a justificativa da contratação no processo{processo_trecho}. Se houver notícia de suspensão ou anulação, consultar a decisão oficial e seu alcance."
+    },
+    {
+      "id": "quantidades",
+      "parecer_contem": ["quantitativ", "quantidades", "objeto generico", "objeto vago", "escopo", "entregaveis", "itens detalhados"],
+      "titulo": "Falta de clareza sobre o que será entregue",
+      "em_resumo": "O alerta indica que faltam informações para entender exatamente o que será comprado ou entregue e em qual quantidade.",
+      "problema_principal": "O parecer aponta pouca clareza sobre o objeto, as quantidades ou os resultados esperados nas informações consultadas.",
+      "significado_pratico": "Sem esses detalhes, fica difícil conferir o preço e acompanhar a entrega. A ausência no resumo não significa que a informação também esteja ausente no processo completo.",
+      "proxima_diligencia": "Solicitar o termo de referência, a lista de itens e quantidades e os critérios de entrega e medição do processo{processo_trecho}. Comparar esses documentos com o que foi contratado e recebido."
+    },
+    {
+      "id": "coincidencias",
+      "parecer_contem": ["duplicidade", "duplicacao", "coincidencia", "coincidentes", "mesmo processo", "mesmo valor"],
+      "titulo": "Registros que precisam ser comparados",
+      "em_resumo": "O parecer encontrou semelhanças entre registros. É necessário conferir se são contratos diferentes, parcelas ou atualizações do mesmo contrato.",
+      "problema_principal": "Há dados coincidentes apontados no parecer, que merecem comparação com os registros relacionados.",
+      "significado_pratico": "Repetir um número de processo ou um valor não comprova pagamento em duplicidade. Pode haver uma explicação no contrato, nos aditivos ou na forma como o portal publica os dados.",
+      "proxima_diligencia": "Comparar os contratos, os aditivos e, quando disponíveis, os comprovantes de pagamento. Conferir os números dos documentos e os períodos de execução do processo{processo_trecho}."
+    },
+    {
+      "id": "geral",
+      "titulo": "Ponto que precisa de conferência",
+      "em_resumo": "O parecer apontou uma situação que merece conferência neste registro. O alerta ainda precisa ser confrontado com a documentação original.",
+      "problema_principal": "Há uma dúvida registrada na fundamentação técnica abaixo. É preciso conferir o trecho citado e os documentos do contrato para esclarecer a situação.",
+      "significado_pratico": "O alerta indica uma pergunta a investigar. Ele não comprova prejuízo, irregularidade ou responsabilidade de uma pessoa ou empresa.",
+      "proxima_diligencia": "Consultar o processo administrativo{processo_trecho} e os documentos citados no parecer. Conferir os fatos, os valores e as justificativas antes de tirar conclusões."
+    }
+  ]
+}

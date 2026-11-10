@@ -1,0 +1,11 @@
+{
+  "casos": 40,
+  "decisoes": 0,
+  "tempos_registrados": 0,
+  "identificacao_preenchida": false,
+  "documentos_locais_conferidos": 50,
+  "referencia_original_preservada": true,
+  "avaliador_designado": "o proprio usuario, identificacao a preencher",
+  "qa": "frontend/qa/quality-pilot-verificacao.json",
+  "testes_python": 188
+}

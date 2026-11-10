@@ -1,0 +1,334 @@
+{
+  "versao": 1,
+  "avaliado_em": "2026-10-24T00:32:18.502442+00:00",
+  "coleta_sha256": "26555b78341bb4cf318f9f6e1bb361d44f0f3e243474e15595d2bc517fd4b52b",
+  "parecer_sha256": "a96e7164bcdfab0b64b005fcf6bddecec5e621b855c1c7e1653cfab3101ece7f",
+  "referencia_sha256": "11a2a4ac32613c57b7f963cc7d2ea08bc223d0fd166c739479333292fdc92ad8",
+  "escopo": "somente_amostra_avaliada",
+  "nota": "Diligência não é irregularidade comprovada. Métricas não extrapolam a amostra. Denominador zero produz null; decisões pendentes não contam como acerto.",
+  "selecionados": 40,
+  "avaliados": 0,
+  "pendentes": 40,
+  "piloto": {
+    "encerrados_independentes": 0,
+    "triagens_consultadas": 0,
+    "reavaliacoes_comparaveis": 0,
+    "mudancas_de_decisao_apos_consulta": 0,
+    "linhas_nao_elegiveis_para_metricas": [
+      4,
+      40,
+      41,
+      56,
+      59,
+      63,
+      84,
+      91,
+      94,
+      96,
+      97,
+      114,
+      135,
+      138,
+      139,
+      156,
+      157,
+      158,
+      174,
+      175,
+      194,
+      211,
+      214,
+      216,
+      224,
+      236,
+      261,
+      263,
+      275,
+      288,
+      317,
+      340,
+      347,
+      352,
+      376,
+      378,
+      384,
+      397,
+      417,
+      420
+    ],
+    "conferencia_independente": {
+      "casos_com_tempo": 0,
+      "total_segundos": null,
+      "mediana_segundos": null
+    },
+    "consulta_posterior_ao_sistema": {
+      "casos_com_tempo": 0,
+      "total_segundos": null,
+      "mediana_segundos": null
+    },
+    "tempo_economizado_segundos": null,
+    "limite": "Tempos de cronômetro declarados, incluindo etapas parciais, sujeitos a interrupções. Consulta posterior dos mesmos casos não mede economia de tempo; requer comparação independente. Exposição prévia ou etapa independente não encerrada fica fora das métricas de acerto."
+  },
+  "cobertura_por_grupo": {
+    "com_alerta": {
+      "selecionados": 20,
+      "avaliados": 0,
+      "pendentes": 20
+    },
+    "sem_alerta": {
+      "selecionados": 20,
+      "avaliados": 0,
+      "pendentes": 20
+    }
+  },
+  "casos": [
+    {
+      "linha": 4,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "471f160b96864f966e8f14e5003aabdae9a774bc25663e5dc7591e92ee3043aa"
+    },
+    {
+      "linha": 40,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "8d851ba96e186a23a2d50ac9b22960c0e1e7e063b8620c3bc8996c99a5401690"
+    },
+    {
+      "linha": 41,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "719e24898fe8ff9d9417615f72631e685ba47ce09eebd03fca245bab9eb831e4"
+    },
+    {
+      "linha": 56,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "c253a0583712f861ec80b8356d3c96b7db8492c60be0df3403fb6746a3107437"
+    },
+    {
+      "linha": 59,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "91fb1bfe779f5a864cf6c8d59a2079259d047b2191f58d060b71f373de545140"
+    },
+    {
+      "linha": 63,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "0e1a89b618f8967f365c8e0fac306ecfe63927f9d72edf00074d76270537b681"
+    },
+    {
+      "linha": 84,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "d07fe97d29364449424e4ae1c5461beadb7609737ff13aac61c4535bd8eff60d"
+    },
+    {
+      "linha": 91,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "c846e5c40dd816b7a9f263a48ef1b6f912a2c57ca808d3020a5fa476a9e534c7"
+    },
+    {
+      "linha": 94,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "0b403ed1b3383adb3b83f732b584c9292476a8377b2ee5916b1c4f2c2c84e92b"
+    },
+    {
+      "linha": 96,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "f9540c775838391ce14dc51ffb25c2e685244f093d1b3b542c2199dd302c24b4"
+    },
+    {
+      "linha": 97,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "f931effb31f63979dc3b966faeabcbf8456cc2e385ee47d6669ac37900be899a"
+    },
+    {
+      "linha": 114,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "976f20bda020e81585988be00fdd436ee6b937d9da2b7b16fd591512ed945617"
+    },
+    {
+      "linha": 135,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "7ffa85a6aadadd91e6928b583aa2390fa5c3b9a6030f3317a8ae2f2895e6330e"
+    },
+    {
+      "linha": 138,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "6bc7ec2a7805ebe59cc94579c78d1ad1c08e07da451aee3a9def28fc074fe372"
+    },
+    {
+      "linha": 139,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "596c9f03864b0b8b73c33821f8376c136b05c33cf436b1bc350eed423f523336"
+    },
+    {
+      "linha": 156,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "5ac0493cf9ee7019b21ace16a615d684c225edd0ad7986f559a10a8a70bde57d"
+    },
+    {
+      "linha": 157,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "7a7be4e6b9bf5069b1293c4fd29716a1f3336dbe9ec72043d2a6a59340c6389f"
+    },
+    {
+      "linha": 158,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "863a6822f35dbea0c15ef23e0ec4e35dae6272cd85f9d921dd1c952d34ef15d7"
+    },
+    {
+      "linha": 174,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "84e4f4ac44ae37c449f0fce5eea592dbeb57db7014e3e55ed56db2477a977b04"
+    },
+    {
+      "linha": 175,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "ac115e4936c63bb202f5210943d90f179f75c5b09262618becb0539738f1396d"
+    },
+    {
+      "linha": 194,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "685ecca2b895c07a20c410811aca4fac303d9b6e3f6e16272f08097e0bcf58a7"
+    },
+    {
+      "linha": 211,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "7f5ad4d022cd0018afb6f68cb595f04aacf5f17d56a2a53ff622fb33f2608b78"
+    },
+    {
+      "linha": 214,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "3dc5e794b54ceb17cb576e23f2a57b7f2d3112bc1a2eafdc6c6eb504e5f07eb0"
+    },
+    {
+      "linha": 216,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "61530a5eddd78bcc9480651615d799b443188c77cfa1517c598a30a7237af04d"
+    },
+    {
+      "linha": 224,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "c9df136f2a894bac007c06944f742524a3ea69f142556af908b6075589830d3e"
+    },
+    {
+      "linha": 236,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "f946039af9773338635250aad9e41197ba9805918239b9e139a87bac04374ec5"
+    },
+    {
+      "linha": 261,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "4ea75f170d2a4597c442a4db844c342fd296473aef5b95c54f6c3073cac976d6"
+    },
+    {
+      "linha": 263,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "a88a30e56afdacfc4a449e4786df332858c445cf03a59978e1b47006c7c91f1e"
+    },
+    {
+      "linha": 275,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "e1b9531d2093edd46b7ece86b83a7af924635fcfdb0adfc46d5c75248c22a8e7"
+    },
+    {
+      "linha": 288,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "82f0480ab0211f5d1b934245400bc582f67012a0a0b2ca494224f055550de3e1"
+    },
+    {
+      "linha": 317,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "6592a3ec21367983da31dfb1f5ce87a820e87d3450eada59ae9c082f3b1310ca"
+    },
+    {
+      "linha": 340,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "1ca1cc38bdeeeb15bc99552a051b48d86362501d977ebb119e7d26be77d8cfcd"
+    },
+    {
+      "linha": 347,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "4449ce62dbd982e1148eecb46975c0e9c9e6b8bc53635e2129c9e496130a5a6f"
+    },
+    {
+      "linha": 352,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "3d6a344ff2b39fc8fc9d0a3f9a6929460417153d2595e99f7a2ff50f72de8a11"
+    },
+    {
+      "linha": 376,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "a0880e46b918798b69b7bab9e33d6bd0bf1ef31edc693d595f179287a8708d93"
+    },
+    {
+      "linha": 378,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "127480f4f6d9e4b9bb3c9af41f22e24a8f163cf5f4a7bdbce111850e1e5e8432"
+    },
+    {
+      "linha": 384,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "7cd61691aacb71839c28b8c4a2c38e87276139f7da426fbc8b5b619e3b91979a"
+    },
+    {
+      "linha": 397,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "251e3147d8cfb55ec49af54a393db30dd9d3b6d89b41e65f60de83bf51e69c44"
+    },
+    {
+      "linha": 417,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "com_alerta",
+      "registro_sha256": "e3230634bd85a9618b7a8877d3ec7d57d212790075da9b4f23a017745ee5c554"
+    },
+    {
+      "linha": 420,
+      "resultado": "nao_elegivel_piloto",
+      "grupo": "sem_alerta",
+      "registro_sha256": "efc2c0861d8bc58d1d08d768f117ca95c3e07d02202172433ab0f3c34bde7329"
+    }
+  ],
+  "linhas_para_segunda_conferencia": [],
+  "verdadeiros_positivos": 0,
+  "falsos_positivos": 0,
+  "verdadeiros_negativos": 0,
+  "falsos_negativos": 0,
+  "precisao": null,
+  "sensibilidade": null,
+  "f1": null
+}
